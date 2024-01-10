@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from itertools import product
 from PIL import Image
 
-#logo = 'image/logo.png'
-#st.sidebar.image(logo)
+logo = 'image/logo.png'
+st.sidebar.image(logo)
 # Page title
 st.title("Prediction Demo")
 # Config
