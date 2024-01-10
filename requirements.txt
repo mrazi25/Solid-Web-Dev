@@ -1,0 +1,7 @@
+streamlit
+Pillow
+pandas
+numpy
+matplotlib
+streamlit_lottie
+sklearn

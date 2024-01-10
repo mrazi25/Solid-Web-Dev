@@ -1,0 +1,1685 @@
+icustay_id,charttime,icutime,label,value,valuenum,valueuom
+293325,2120-10-29 10:30:00,-1 days +23:57:10,O2 Delivery Device(s),Aerosol-cool,,
+293325,2120-10-29 10:30:00,-1 days +23:57:10,Inspired O2 Fraction,70,70.0,
+293325,2120-10-29 10:30:00,-1 days +23:57:10,O2 Flow,10,10.0,L/min
+293325,2120-10-29 10:32:00,-1 days +23:59:10,Patient Location,4I,,
+293325,2120-10-29 10:32:00,-1 days +23:59:10,Marital Status,Single,1.0,
+293325,2120-10-29 10:32:00,-1 days +23:59:10,Religion,Protestant ,7.0,
+293325,2120-10-29 10:32:00,-1 days +23:59:10,Language,English,1.0,
+293325,2120-10-29 10:34:00,0 days 00:01:10,Respiratory Rate,17,17.0,insp/min
+293325,2120-10-29 10:34:00,0 days 00:01:10,O2 saturation pulseoxymetry,88,88.0,%
+293325,2120-10-29 10:34:00,0 days 00:01:10,Heart Rate,106,106.0,bpm
+293325,2120-10-29 10:35:00,0 days 00:02:10,Non Invasive Blood Pressure systolic,96,96.0,mmHg
+293325,2120-10-29 10:35:00,0 days 00:02:10,Non Invasive Blood Pressure mean,59,59.0,mmHg
+293325,2120-10-29 10:35:00,0 days 00:02:10,Non Invasive Blood Pressure diastolic,47,47.0,mmHg
+293325,2120-10-29 10:38:00,0 days 00:05:10,PH (dipstick),6.5,6.5,units
+293325,2120-10-29 10:38:00,0 days 00:05:10,Specific Gravity (urine),1.01,1.01,
+293325,2120-10-29 10:39:00,0 days 00:06:10,SpO2 Desat Limit,85,85.0,%
+293325,2120-10-29 10:39:00,0 days 00:06:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-29 10:39:00,0 days 00:06:10,Alarms On,1,1.0,
+293325,2120-10-29 10:39:00,0 days 00:06:10,Parameters Checked,1,1.0,
+293325,2120-10-29 10:39:00,0 days 00:06:10,NBP Alarm Source,Systolic,,
+293325,2120-10-29 10:39:00,0 days 00:06:10,Resp Alarm - High,40,40.0,insp/min
+293325,2120-10-29 10:39:00,0 days 00:06:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-29 10:39:00,0 days 00:06:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-29 10:39:00,0 days 00:06:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-29 10:39:00,0 days 00:06:10,O2 Saturation Pulseoxymetry Alarm - Low,90,90.0,%
+293325,2120-10-29 10:39:00,0 days 00:06:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-29 10:39:00,0 days 00:06:10,Non-Invasive Blood Pressure Alarm - Low,90,90.0,mmHg
+293325,2120-10-29 10:39:00,0 days 00:06:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-29 10:40:00,0 days 00:07:10,O2 Flow,10,10.0,L/min
+293325,2120-10-29 10:40:00,0 days 00:07:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-29 10:40:00,0 days 00:07:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 10:40:00,0 days 00:07:10,Temperature Fahrenheit,97,97.0,?F
+293325,2120-10-29 10:40:00,0 days 00:07:10,Temperature Site,Oral,,
+293325,2120-10-29 10:40:00,0 days 00:07:10,Ectopy Type 1,None,,
+293325,2120-10-29 10:40:00,0 days 00:07:10,O2 Delivery Device(s),Aerosol-cool,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Position,Supine,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Turn,Side to Side,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Activity,Bedrest,,
+293325,2120-10-29 10:45:00,0 days 00:12:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Delirium assessment,Negative,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,CAM-ICU MS Change,No,0.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,RU Strength/Movement,Normal strength,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,LL Strength/Movement,Normal strength,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,LU Strength/Movement,Normal strength,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,RL Strength/Movement,Normal strength,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pupil Size Right,3mm,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Speech,Normal,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,GCS - Verbal Response,Oriented,5.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Orientation,Oriented x3,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pain Present,No,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pupil Size Left,3mm,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Response,Localizes,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Level of Consciousness,Alert,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pupil Response Left,Sluggish,,
+293325,2120-10-29 10:47:00,0 days 00:14:10,Pupil Response Right,Sluggish,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Urine Appearance,Clear,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Cough Effort,Strong,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Respiratory Effort,Shallow,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,PostTib. Pulses R,Strong/Palpable,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,PostTib. Pulses L,Strong/Palpable,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,GU Catheter Size,16 French,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,RUL Lung Sounds,Crackles,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,RLL Lung Sounds,Crackles,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,LUL Lung Sounds,Crackles,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,LLL Lung Sounds,Crackles,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Urine Color,Yellow,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Bowel Sounds,Present,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Abdominal Assessment,Soft,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Diet Type,NPO,,
+293325,2120-10-29 10:48:00,0 days 00:15:10,Cough Type,Non-productive,,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Edema Location,None,,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Sensory Perception,No Impairment,4.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Moisture,Occasionally Moist,3.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Friction/Shear,Problem,1.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Skin Temperature,Warm,,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Skin Color,Pale,,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Skin Integrity,Intact,,
+293325,2120-10-29 10:50:00,0 days 00:17:10,Skin Condition,Dry ,,
+293325,2120-10-29 10:51:00,0 days 00:18:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-29 10:51:00,0 days 00:18:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-29 10:51:00,0 days 00:18:10,Safety Measures_U_1,Bed alarm activated,,
+293325,2120-10-29 10:51:00,0 days 00:18:10,Side Rails,2 rails up,,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Support Systems,Significant Other,,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-29 11:00:00,0 days 00:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 11:00:00,0 days 00:27:10,Non Invasive Blood Pressure systolic,85,85.0,mmHg
+293325,2120-10-29 11:00:00,0 days 00:27:10,Heart Rate,90,90.0,bpm
+293325,2120-10-29 11:00:00,0 days 00:27:10,Non Invasive Blood Pressure mean,53,53.0,mmHg
+293325,2120-10-29 11:00:00,0 days 00:27:10,Non Invasive Blood Pressure diastolic,44,44.0,mmHg
+293325,2120-10-29 11:00:00,0 days 00:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 11:00:00,0 days 00:27:10,Respiratory Rate,29,29.0,insp/min
+293325,2120-10-29 11:00:00,0 days 00:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 11:02:00,0 days 00:29:10,Arterial CO2 Pressure,47,47.0,mmHg
+293325,2120-10-29 11:02:00,0 days 00:29:10,PH (Arterial),7.52,7.52,units
+293325,2120-10-29 11:02:00,0 days 00:29:10,Arterial O2 pressure,109,109.0,mmHg
+293325,2120-10-29 11:02:00,0 days 00:29:10,TCO2 (calc) Arterial,40,40.0,mEq/L
+293325,2120-10-29 11:02:00,0 days 00:29:10,Lactic Acid,2.8,2.8,mmol/L
+293325,2120-10-29 11:02:00,0 days 00:29:10,Arterial Base Excess,14,14.0,mEq/L
+293325,2120-10-29 11:24:00,0 days 00:51:10,See chart for initial patient assessment,1,1.0,
+293325,2120-10-29 11:24:00,0 days 00:51:10,Smoking Cessation Info Offered through BIDMC Inpatient Guide,1,1.0,
+293325,2120-10-29 11:30:00,0 days 00:57:10,Ectopy Type 1,None,,
+293325,2120-10-29 11:30:00,0 days 00:57:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 11:30:00,0 days 00:57:10,Heart Rate,103,103.0,bpm
+293325,2120-10-29 11:30:00,0 days 00:57:10,Non Invasive Blood Pressure systolic,82,82.0,mmHg
+293325,2120-10-29 11:30:00,0 days 00:57:10,Non Invasive Blood Pressure diastolic,59,59.0,mmHg
+293325,2120-10-29 11:30:00,0 days 00:57:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-29 11:30:00,0 days 00:57:10,Respiratory Rate,30,30.0,insp/min
+293325,2120-10-29 11:30:00,0 days 00:57:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 11:35:00,0 days 01:02:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 11:35:00,0 days 01:02:10,Respiratory Rate,24,24.0,insp/min
+293325,2120-10-29 11:35:00,0 days 01:02:10,Heart Rate,89,89.0,bpm
+293325,2120-10-29 11:39:00,0 days 01:06:10,Non Invasive Blood Pressure systolic,83,83.0,mmHg
+293325,2120-10-29 11:39:00,0 days 01:06:10,Non Invasive Blood Pressure diastolic,49,49.0,mmHg
+293325,2120-10-29 11:39:00,0 days 01:06:10,Non Invasive Blood Pressure mean,57,57.0,mmHg
+293325,2120-10-29 11:45:00,0 days 01:12:10,Code Status,Full code,,
+293325,2120-10-29 11:45:00,0 days 01:12:10,Service,MICU/SICU,,
+293325,2120-10-29 11:45:00,0 days 01:12:10,Admission Weight (lbs.),124.1,124.1,
+293325,2120-10-29 11:46:00,0 days 01:13:10,Height (cm),157,157.0,cm
+293325,2120-10-29 11:46:00,0 days 01:13:10,Admit from,Floor,,
+293325,2120-10-29 11:46:00,0 days 01:13:10,Discharge to,Outside facility,,
+293325,2120-10-29 11:46:00,0 days 01:13:10,Height,62,62.0,Inch
+293325,2120-10-29 11:46:00,0 days 01:13:10,Admission Weight (Kg),56.4,56.4,kg
+293325,2120-10-29 11:50:00,0 days 01:17:10,Heart Rate,102,102.0,bpm
+293325,2120-10-29 11:50:00,0 days 01:17:10,Respiratory Rate,22,22.0,insp/min
+293325,2120-10-29 11:50:00,0 days 01:17:10,O2 saturation pulseoxymetry,94,94.0,%
+293325,2120-10-29 11:54:00,0 days 01:21:10,Non Invasive Blood Pressure diastolic,46,46.0,mmHg
+293325,2120-10-29 11:54:00,0 days 01:21:10,Non Invasive Blood Pressure systolic,89,89.0,mmHg
+293325,2120-10-29 11:54:00,0 days 01:21:10,Non Invasive Blood Pressure mean,56,56.0,mmHg
+293325,2120-10-29 11:55:00,0 days 01:22:10,Respiratory Rate,33,33.0,insp/min
+293325,2120-10-29 11:55:00,0 days 01:22:10,Non Invasive Blood Pressure mean,53,53.0,mmHg
+293325,2120-10-29 11:55:00,0 days 01:22:10,Non Invasive Blood Pressure diastolic,44,44.0,mmHg
+293325,2120-10-29 11:55:00,0 days 01:22:10,Non Invasive Blood Pressure systolic,92,92.0,mmHg
+293325,2120-10-29 11:55:00,0 days 01:22:10,Heart Rate,91,91.0,bpm
+293325,2120-10-29 11:55:00,0 days 01:22:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-29 12:00:00,0 days 01:27:10,O2 Flow,10,10.0,L/min
+293325,2120-10-29 12:00:00,0 days 01:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 12:00:00,0 days 01:27:10,O2 saturation pulseoxymetry,94,94.0,%
+293325,2120-10-29 12:00:00,0 days 01:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-29 12:00:00,0 days 01:27:10,Respiratory Rate,32,32.0,insp/min
+293325,2120-10-29 12:00:00,0 days 01:27:10,Non Invasive Blood Pressure mean,58,58.0,mmHg
+293325,2120-10-29 12:00:00,0 days 01:27:10,Non Invasive Blood Pressure diastolic,48,48.0,mmHg
+293325,2120-10-29 12:00:00,0 days 01:27:10,Non Invasive Blood Pressure systolic,88,88.0,mmHg
+293325,2120-10-29 12:00:00,0 days 01:27:10,Heart Rate,92,92.0,bpm
+293325,2120-10-29 12:00:00,0 days 01:27:10,O2 Delivery Device(s),Aerosol-cool,,
+293325,2120-10-29 12:00:00,0 days 01:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 12:42:00,0 days 02:09:10,Calcium non-ionized,7.5,7.5,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,CK (CPK),43,43.0,IU/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Atyps,0,0.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Bands,35,35.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Basos,0,0.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Eos,0,0.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Lymphs,0,0.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Prothrombin time,15.6,15.6,sec
+293325,2120-10-29 12:42:00,0 days 02:09:10,PTT,90.7,90.7,sec
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Monos,7,7.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Differential-Neuts,37,37.0,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,Phosphorous,3.7,3.7,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Total Bilirubin,.5,0.5,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Anion gap,15,15.0,mEq/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Troponin-T,.01,0.01,ng/mL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Potassium (serum),3.5,3.5,mEq/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,INR,1.4,1.4,
+293325,2120-10-29 12:42:00,0 days 02:09:10,Alkaline Phosphate,105,105.0,IU/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,HCO3 (serum),33,33.0,mEq/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Platelet Count,48,48.0,K/uL
+293325,2120-10-29 12:42:00,0 days 02:09:10,CK-MB,2,2.0,ng/mL
+293325,2120-10-29 12:42:00,0 days 02:09:10,BUN,17,17.0,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Hematocrit (serum),22.8,22.8,%
+293325,2120-10-29 12:42:00,0 days 02:09:10,WBC,9.1,9.1,K/uL
+293325,2120-10-29 12:42:00,0 days 02:09:10,ALT,17,17.0,IU/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Magnesium,1.6,1.6,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,LDH,1321,1321.0,IU/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Glucose (serum),78,78.0,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Creatinine,.7,0.7,mg/dL
+293325,2120-10-29 12:42:00,0 days 02:09:10,Chloride (serum),97,97.0,mEq/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,AST,100,100.0,IU/L
+293325,2120-10-29 12:42:00,0 days 02:09:10,Hemoglobin,8,8.0,g/dl
+293325,2120-10-29 12:42:00,0 days 02:09:10,Sodium (serum),141,141.0,mEq/L
+293325,2120-10-29 13:00:00,0 days 02:27:10,Heart Rate,96,96.0,bpm
+293325,2120-10-29 13:00:00,0 days 02:27:10,Non Invasive Blood Pressure systolic,93,93.0,mmHg
+293325,2120-10-29 13:00:00,0 days 02:27:10,Non Invasive Blood Pressure diastolic,45,45.0,mmHg
+293325,2120-10-29 13:00:00,0 days 02:27:10,Non Invasive Blood Pressure mean,56,56.0,mmHg
+293325,2120-10-29 13:00:00,0 days 02:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 13:00:00,0 days 02:27:10,Respiratory Rate,36,36.0,insp/min
+293325,2120-10-29 13:00:00,0 days 02:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 13:00:00,0 days 02:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Position,Right Side,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Turn,Side to Side,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Activity,Bedrest,,
+293325,2120-10-29 14:00:00,0 days 03:27:10,Heart Rate,98,98.0,bpm
+293325,2120-10-29 14:00:00,0 days 03:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 14:00:00,0 days 03:27:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-29 14:00:00,0 days 03:27:10,Respiratory Rate,24,24.0,insp/min
+293325,2120-10-29 14:00:00,0 days 03:27:10,Non Invasive Blood Pressure mean,54,54.0,mmHg
+293325,2120-10-29 14:00:00,0 days 03:27:10,Non Invasive Blood Pressure diastolic,40,40.0,mmHg
+293325,2120-10-29 14:00:00,0 days 03:27:10,Non Invasive Blood Pressure systolic,108,108.0,mmHg
+293325,2120-10-29 15:00:00,0 days 04:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 15:00:00,0 days 04:27:10,Non Invasive Blood Pressure systolic,91,91.0,mmHg
+293325,2120-10-29 15:00:00,0 days 04:27:10,Non Invasive Blood Pressure diastolic,56,56.0,mmHg
+293325,2120-10-29 15:00:00,0 days 04:27:10,Respiratory Rate,24,24.0,insp/min
+293325,2120-10-29 15:00:00,0 days 04:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 15:00:00,0 days 04:27:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-29 15:00:00,0 days 04:27:10,Heart Rate,105,105.0,bpm
+293325,2120-10-29 15:00:00,0 days 04:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 15:05:00,0 days 04:32:10,INR,1.3,1.3,
+293325,2120-10-29 15:05:00,0 days 04:32:10,Prothrombin time,14.7,14.7,sec
+293325,2120-10-29 15:05:00,0 days 04:32:10,Platelet Count,53,53.0,K/uL
+293325,2120-10-29 15:05:00,0 days 04:32:10,PTT,24.1,24.1,sec
+293325,2120-10-29 15:05:00,0 days 04:32:10,WBC,12.4,12.4,K/uL
+293325,2120-10-29 15:05:00,0 days 04:32:10,Hematocrit (serum),24.5,24.5,%
+293325,2120-10-29 15:05:00,0 days 04:32:10,Hemoglobin,8.6,8.6,g/dl
+293325,2120-10-29 16:00:00,0 days 05:27:10,O2 saturation pulseoxymetry,91,91.0,%
+293325,2120-10-29 16:00:00,0 days 05:27:10,Non Invasive Blood Pressure systolic,92,92.0,mmHg
+293325,2120-10-29 16:00:00,0 days 05:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Non Invasive Blood Pressure diastolic,49,49.0,mmHg
+293325,2120-10-29 16:00:00,0 days 05:27:10,Non Invasive Blood Pressure mean,59,59.0,mmHg
+293325,2120-10-29 16:00:00,0 days 05:27:10,Respiratory Rate,35,35.0,insp/min
+293325,2120-10-29 16:00:00,0 days 05:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Pain Present,No,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-29 16:00:00,0 days 05:27:10,O2 Flow,10,10.0,L/min
+293325,2120-10-29 16:00:00,0 days 05:27:10,Temperature Fahrenheit,97,97.0,?F
+293325,2120-10-29 16:00:00,0 days 05:27:10,Heart Rate,95,95.0,bpm
+293325,2120-10-29 16:00:00,0 days 05:27:10,Alarms On,1,1.0,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Temperature Site,Oral,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Position,Left Side,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Parameters Checked,1,1.0,
+293325,2120-10-29 16:00:00,0 days 05:27:10,O2 Delivery Device(s),Aerosol-cool,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Turn,Side to Side,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Activity,Bedrest,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 16:00:00,0 days 05:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-29 16:06:00,0 days 05:33:10,Smoking Cessation Info Offered through BIDMC Inpatient Guide,1,1.0,
+293325,2120-10-29 16:06:00,0 days 05:33:10,See chart for initial patient assessment,1,1.0,
+293325,2120-10-29 16:06:00,0 days 05:33:10,Is the spokesperson the Health Care Proxy,1,1.0,
+293325,2120-10-29 17:00:00,0 days 06:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 17:00:00,0 days 06:27:10,Non Invasive Blood Pressure diastolic,45,45.0,mmHg
+293325,2120-10-29 17:00:00,0 days 06:27:10,Heart Rate,103,103.0,bpm
+293325,2120-10-29 17:00:00,0 days 06:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 17:00:00,0 days 06:27:10,O2 saturation pulseoxymetry,91,91.0,%
+293325,2120-10-29 17:00:00,0 days 06:27:10,Respiratory Rate,39,39.0,insp/min
+293325,2120-10-29 17:00:00,0 days 06:27:10,Non Invasive Blood Pressure mean,57,57.0,mmHg
+293325,2120-10-29 17:00:00,0 days 06:27:10,Non Invasive Blood Pressure systolic,96,96.0,mmHg
+293325,2120-10-29 18:00:00,0 days 07:27:10,Respiratory Rate,34,34.0,insp/min
+293325,2120-10-29 18:00:00,0 days 07:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,O2 saturation pulseoxymetry,90,90.0,%
+293325,2120-10-29 18:00:00,0 days 07:27:10,Heart Rate,116,116.0,bpm
+293325,2120-10-29 18:00:00,0 days 07:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Position,Right Side,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Activity,Bedrest,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Turn,Side to Side,,
+293325,2120-10-29 18:00:00,0 days 07:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 18:30:00,0 days 07:57:10,Non Invasive Blood Pressure mean,111,111.0,mmHg
+293325,2120-10-29 19:00:00,0 days 08:27:10,Heart Rate,101,101.0,bpm
+293325,2120-10-29 19:00:00,0 days 08:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 19:00:00,0 days 08:27:10,Non Invasive Blood Pressure systolic,141,141.0,mmHg
+293325,2120-10-29 19:00:00,0 days 08:27:10,Non Invasive Blood Pressure diastolic,108,108.0,mmHg
+293325,2120-10-29 19:00:00,0 days 08:27:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-29 19:00:00,0 days 08:27:10,Non Invasive Blood Pressure mean,113,113.0,mmHg
+293325,2120-10-29 19:00:00,0 days 08:27:10,Respiratory Rate,34,34.0,insp/min
+293325,2120-10-29 19:00:00,0 days 08:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 19:21:00,0 days 08:48:10,Patient Location,4I,,
+293325,2120-10-29 19:21:00,0 days 08:48:10,Marital Status,Single,1.0,
+293325,2120-10-29 19:21:00,0 days 08:48:10,Language,English,1.0,
+293325,2120-10-29 19:21:00,0 days 08:48:10,Religion,Protestant ,7.0,
+293325,2120-10-29 19:55:00,0 days 09:22:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-29 19:55:00,0 days 09:22:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-29 19:55:00,0 days 09:22:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-29 19:55:00,0 days 09:22:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Alarms On,1,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Parameters Checked,1,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Back Care,1,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Urine Appearance,Clear,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Skin Condition,Dry ,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Response,Localizes,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pupil Size Left,3mm,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Temperature Site,Oral,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Position,Supine,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pupil Response Left,Brisk ,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pupil Response Right,Brisk ,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,O2 Delivery Device(s),Aerosol-cool,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Oral Care,Swab,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Level of Consciousness,Alert,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Support Systems,Significant Other,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Skin Integrity,Intact,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Skin Temperature,Warm,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Skin Color,Pale,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Edema Location,None,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Sensory Perception,No Impairment,4.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Moisture,Occasionally Moist,3.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Learner,Patient,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Topic,Plan of Care,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Readiness,Yes,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Barrier,Altered LOC,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Method,Explanation,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Education Response,Needs reinforcement,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Turn,Side to Side,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Activity,Bedrest,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Side Rails,3 rails up,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,GU Catheter Size,16 French,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Urine Color,Yellow,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Bowel Sounds,Present,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Diet Type,NPO,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Cough Type,Non-productive,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Cough Effort,Strong,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-29 20:00:00,0 days 09:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,PostTib. Pulses L,Strong/Palpable,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,PostTib. Pulses R,Strong/Palpable,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,O2 Flow,10,10.0,L/min
+293325,2120-10-29 20:00:00,0 days 09:27:10,Temperature Fahrenheit,97.8,97.8,?F
+293325,2120-10-29 20:00:00,0 days 09:27:10,Respiratory Rate,28,28.0,insp/min
+293325,2120-10-29 20:00:00,0 days 09:27:10,Heart Rate,94,94.0,bpm
+293325,2120-10-29 20:00:00,0 days 09:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 20:00:00,0 days 09:27:10,LL Strength/Movement,Normal strength,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,LU Strength/Movement,Normal strength,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,RL Strength/Movement,Normal strength,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,RU Strength/Movement,Normal strength,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pupil Size Right,3mm,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Speech,Normal,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,GCS - Verbal Response,Oriented,5.0,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Orientation,Oriented x2,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-29 20:00:00,0 days 09:27:10,Pain Present,No,,
+293325,2120-10-29 20:06:00,0 days 09:33:10,Non Invasive Blood Pressure diastolic,101,101.0,mmHg
+293325,2120-10-29 20:06:00,0 days 09:33:10,Non Invasive Blood Pressure systolic,128,128.0,mmHg
+293325,2120-10-29 20:06:00,0 days 09:33:10,Non Invasive Blood Pressure mean,106,106.0,mmHg
+293325,2120-10-29 20:35:00,0 days 10:02:10,Arterial O2 pressure,62,62.0,mmHg
+293325,2120-10-29 20:35:00,0 days 10:02:10,PH (Arterial),7.53,7.53,units
+293325,2120-10-29 20:35:00,0 days 10:02:10,Arterial CO2 Pressure,46,46.0,mmHg
+293325,2120-10-29 20:35:00,0 days 10:02:10,Lactic Acid,2.3,2.3,mmol/L
+293325,2120-10-29 20:35:00,0 days 10:02:10,TCO2 (calc) Arterial,40,40.0,mEq/L
+293325,2120-10-29 20:35:00,0 days 10:02:10,Arterial Base Excess,13,13.0,mEq/L
+293325,2120-10-29 21:00:00,0 days 10:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 21:00:00,0 days 10:27:10,Heart Rate,100,100.0,bpm
+293325,2120-10-29 21:00:00,0 days 10:27:10,Non Invasive Blood Pressure systolic,97,97.0,mmHg
+293325,2120-10-29 21:00:00,0 days 10:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 21:00:00,0 days 10:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 21:00:00,0 days 10:27:10,Non Invasive Blood Pressure mean,57,57.0,mmHg
+293325,2120-10-29 21:00:00,0 days 10:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-29 21:00:00,0 days 10:27:10,Non Invasive Blood Pressure diastolic,45,45.0,mmHg
+293325,2120-10-29 22:00:00,0 days 11:27:10,Non Invasive Blood Pressure diastolic,47,47.0,mmHg
+293325,2120-10-29 22:00:00,0 days 11:27:10,Heart Rate,100,100.0,bpm
+293325,2120-10-29 22:00:00,0 days 11:27:10,Non Invasive Blood Pressure systolic,98,98.0,mmHg
+293325,2120-10-29 22:00:00,0 days 11:27:10,Non Invasive Blood Pressure mean,58,58.0,mmHg
+293325,2120-10-29 22:00:00,0 days 11:27:10,Respiratory Rate,28,28.0,insp/min
+293325,2120-10-29 22:00:00,0 days 11:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-29 22:00:00,0 days 11:27:10,Activity Tolerance,Tolerated Well,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Position,Left Side,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Ectopy Type 1,None,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Turn,Side to Side,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Activity,Bedrest,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-29 22:00:00,0 days 11:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-29 23:00:00,0 days 12:27:10,Non Invasive Blood Pressure diastolic,42,42.0,mmHg
+293325,2120-10-29 23:00:00,0 days 12:27:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-29 23:00:00,0 days 12:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-29 23:00:00,0 days 12:27:10,Heart Rate,87,87.0,bpm
+293325,2120-10-29 23:00:00,0 days 12:27:10,Respiratory Rate,32,32.0,insp/min
+293325,2120-10-29 23:00:00,0 days 12:27:10,Non Invasive Blood Pressure systolic,84,84.0,mmHg
+293325,2120-10-29 23:00:00,0 days 12:27:10,Non Invasive Blood Pressure mean,52,52.0,mmHg
+293325,2120-10-29 23:00:00,0 days 12:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Temperature Site,Oral,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,NBP Alarm Source,Systolic,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Oral Care,Swab,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Level of Consciousness,Alert,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Urine Appearance,Clear,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Skin Condition,Dry ,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 Gauge Site Appear,WNL,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Small Volume Neb Drug/Dose #1,Atrovent 0.02% dose,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Alarms On,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-30 00:00:00,0 days 13:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Back Care,1,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Resp Alarm - High,50,50.0,insp/min
+293325,2120-10-30 00:00:00,0 days 13:27:10,Response,Localizes,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Position,Right Side,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 Gauge placed in the field,0,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Urine Color,Yellow,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,GU Catheter Size,16 French,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Support Systems,Significant Other,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Skin Integrity,Intact,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Skin Temperature,Warm,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Skin Color,Pale,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Edema Location,None,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Sensory Perception,No Impairment,4.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Response,Needs reinforcement,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Method,Explanation,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Barrier,None,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Readiness,Yes,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Topic,Plan of Care,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Education Learner,Significant Other/Family,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Moisture,Occasionally Moist,3.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,PostTib. Pulses L,Strong/Palpable,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,PostTib. Pulses R,Strong/Palpable,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 G Infiltration Scale,Grade 0,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,22 G Phlebitis Scale,Grade 0,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Diet Type,NPO,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Turn,Side to Side,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Activity,Bedrest,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Bowel Sounds,Present,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Cough Effort,Weak,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Cough Type,Non-productive,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Speech,Normal,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,O2 Saturation Pulseoxymetry Alarm - Low,90,90.0,%
+293325,2120-10-30 00:00:00,0 days 13:27:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-30 00:00:00,0 days 13:27:10,Temperature Fahrenheit,97.2,97.2,?F
+293325,2120-10-30 00:00:00,0 days 13:27:10,Non-Invasive Blood Pressure Alarm - Low,80,80.0,mmHg
+293325,2120-10-30 00:00:00,0 days 13:27:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-30 00:00:00,0 days 13:27:10,O2 saturation pulseoxymetry,98,98.0,%
+293325,2120-10-30 00:00:00,0 days 13:27:10,Non Invasive Blood Pressure diastolic,41,41.0,mmHg
+293325,2120-10-30 00:00:00,0 days 13:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Non Invasive Blood Pressure systolic,94,94.0,mmHg
+293325,2120-10-30 00:00:00,0 days 13:27:10,Respiratory Rate,41,41.0,insp/min
+293325,2120-10-30 00:00:00,0 days 13:27:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-30 00:00:00,0 days 13:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,GCS - Verbal Response,Oriented,5.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Orientation,Oriented x3,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-30 00:00:00,0 days 13:27:10,LL Strength/Movement,Normal strength,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,LU Strength/Movement,Normal strength,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,RL Strength/Movement,Normal strength,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,RU Strength/Movement,Normal strength,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-30 00:00:00,0 days 13:27:10,Non Invasive Blood Pressure mean,54,54.0,mmHg
+293325,2120-10-30 00:00:00,0 days 13:27:10,Heart Rate,90,90.0,bpm
+293325,2120-10-30 00:00:00,0 days 13:27:10,Pain Present,No,,
+293325,2120-10-30 00:30:00,0 days 13:57:10,Inspired O2 Fraction,95,95.0,
+293325,2120-10-30 00:30:00,0 days 13:57:10,O2 Delivery Device(s),High flow neb,,
+293325,2120-10-30 01:00:00,0 days 14:27:10,Daily Weight,57.2,57.2,kg
+293325,2120-10-30 01:00:00,0 days 14:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 01:00:00,0 days 14:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 01:00:00,0 days 14:27:10,O2 saturation pulseoxymetry,99,99.0,%
+293325,2120-10-30 01:00:00,0 days 14:27:10,Respiratory Rate,39,39.0,insp/min
+293325,2120-10-30 01:00:00,0 days 14:27:10,Non Invasive Blood Pressure mean,60,60.0,mmHg
+293325,2120-10-30 01:00:00,0 days 14:27:10,Non Invasive Blood Pressure diastolic,48,48.0,mmHg
+293325,2120-10-30 01:00:00,0 days 14:27:10,Non Invasive Blood Pressure systolic,96,96.0,mmHg
+293325,2120-10-30 01:00:00,0 days 14:27:10,Heart Rate,94,94.0,bpm
+293325,2120-10-30 02:00:00,0 days 15:27:10,Non Invasive Blood Pressure diastolic,43,43.0,mmHg
+293325,2120-10-30 02:00:00,0 days 15:27:10,Non Invasive Blood Pressure mean,54,54.0,mmHg
+293325,2120-10-30 02:00:00,0 days 15:27:10,Respiratory Rate,36,36.0,insp/min
+293325,2120-10-30 02:00:00,0 days 15:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 02:00:00,0 days 15:27:10,O2 saturation pulseoxymetry,96,96.0,%
+293325,2120-10-30 02:00:00,0 days 15:27:10,Heart Rate,90,90.0,bpm
+293325,2120-10-30 02:00:00,0 days 15:27:10,Non Invasive Blood Pressure systolic,90,90.0,mmHg
+293325,2120-10-30 02:00:00,0 days 15:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Position,Supine,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Turn,Side to Side,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Activity,Bedrest,,
+293325,2120-10-30 02:00:00,0 days 15:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-30 02:12:00,0 days 15:39:10,Smoking Cessation Info Offered through BIDMC Inpatient Guide,1,1.0,
+293325,2120-10-30 02:12:00,0 days 15:39:10,Is the spokesperson the Health Care Proxy,1,1.0,
+293325,2120-10-30 02:12:00,0 days 15:39:10,See chart for initial patient assessment,1,1.0,
+293325,2120-10-30 02:12:00,0 days 15:39:10,No wallet / money,1,1.0,
+293325,2120-10-30 02:20:00,0 days 15:47:10,Lactic Acid,1.8,1.8,mmol/L
+293325,2120-10-30 02:20:00,0 days 15:47:10,Arterial Base Excess,14,14.0,mEq/L
+293325,2120-10-30 02:20:00,0 days 15:47:10,TCO2 (calc) Arterial,44,44.0,mEq/L
+293325,2120-10-30 02:20:00,0 days 15:47:10,Arterial O2 pressure,48,48.0,mmHg
+293325,2120-10-30 02:20:00,0 days 15:47:10,PH (Arterial),7.45,7.45,units
+293325,2120-10-30 02:20:00,0 days 15:47:10,Arterial CO2 Pressure,61,61.0,mmHg
+293325,2120-10-30 03:00:00,0 days 16:27:10,Non Invasive Blood Pressure diastolic,41,41.0,mmHg
+293325,2120-10-30 03:00:00,0 days 16:27:10,O2 saturation pulseoxymetry,100,100.0,%
+293325,2120-10-30 03:00:00,0 days 16:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-30 03:00:00,0 days 16:27:10,Non Invasive Blood Pressure mean,54,54.0,mmHg
+293325,2120-10-30 03:00:00,0 days 16:27:10,Respiratory Rate,41,41.0,insp/min
+293325,2120-10-30 03:00:00,0 days 16:27:10,Non Invasive Blood Pressure systolic,92,92.0,mmHg
+293325,2120-10-30 03:00:00,0 days 16:27:10,Heart Rate,104,104.0,bpm
+293325,2120-10-30 03:00:00,0 days 16:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 03:21:00,0 days 16:48:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 03:21:00,0 days 16:48:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 03:21:00,0 days 16:48:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 03:21:00,0 days 16:48:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 03:32:00,0 days 16:59:10,Calcium non-ionized,7.4,7.4,mg/dL
+293325,2120-10-30 03:32:00,0 days 16:59:10,BUN,18,18.0,mg/dL
+293325,2120-10-30 03:32:00,0 days 16:59:10,Platelet Count,46,46.0,K/uL
+293325,2120-10-30 03:32:00,0 days 16:59:10,Vancomycin (Trough),16,16.0,ug/mL
+293325,2120-10-30 03:32:00,0 days 16:59:10,HCO3 (serum),39,39.0,mEq/L
+293325,2120-10-30 03:32:00,0 days 16:59:10,Potassium (serum),3.1,3.1,mEq/L
+293325,2120-10-30 03:32:00,0 days 16:59:10,Anion gap,10,10.0,mEq/L
+293325,2120-10-30 03:32:00,0 days 16:59:10,Phosphorous,3.4,3.4,mg/dL
+293325,2120-10-30 03:32:00,0 days 16:59:10,Hemoglobin,8.4,8.4,g/dl
+293325,2120-10-30 03:32:00,0 days 16:59:10,Magnesium,1.6,1.6,mg/dL
+293325,2120-10-30 03:32:00,0 days 16:59:10,Hematocrit (serum),24.7,24.7,%
+293325,2120-10-30 03:32:00,0 days 16:59:10,Sodium (serum),144,144.0,mEq/L
+293325,2120-10-30 03:32:00,0 days 16:59:10,Chloride (serum),98,98.0,mEq/L
+293325,2120-10-30 03:32:00,0 days 16:59:10,Creatinine,.7,0.7,mg/dL
+293325,2120-10-30 03:32:00,0 days 16:59:10,WBC,16.8,16.8,K/uL
+293325,2120-10-30 03:32:00,0 days 16:59:10,Glucose (serum),80,80.0,mg/dL
+293325,2120-10-30 04:00:00,0 days 17:27:10,Orientation,Oriented x2,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Respiratory Rate,38,38.0,insp/min
+293325,2120-10-30 04:00:00,0 days 17:27:10,Non Invasive Blood Pressure mean,56,56.0,mmHg
+293325,2120-10-30 04:00:00,0 days 17:27:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-30 04:00:00,0 days 17:27:10,Temperature Fahrenheit,96.9,96.9,?F
+293325,2120-10-30 04:00:00,0 days 17:27:10,Inspired O2 Fraction,95,95.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Heart Rhythm,AF (Atrial Fibrillation),,
+293325,2120-10-30 04:00:00,0 days 17:27:10,LL Strength/Movement,Normal strength,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,LU Strength/Movement,Normal strength,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,RL Strength/Movement,Normal strength,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Non Invasive Blood Pressure diastolic,48,48.0,mmHg
+293325,2120-10-30 04:00:00,0 days 17:27:10,Non Invasive Blood Pressure systolic,87,87.0,mmHg
+293325,2120-10-30 04:00:00,0 days 17:27:10,Heart Rate,122,122.0,bpm
+293325,2120-10-30 04:00:00,0 days 17:27:10,RU Strength/Movement,Normal strength,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Speech,Normal,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Pain Present,No,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,O2 Delivery Device(s),High flow neb,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Response,Localizes,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Ectopy Frequency 1,Occasional,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Ectopy Type 1,PAC's,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Temperature Site,Oral,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Position,Left Side,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Alarms On,1,1.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Skin Condition,Dry ,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Urine Appearance,Clear,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Level of Consciousness,Alert,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Oral Care,Swab,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Method,Explanation,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Cough Effort,Weak,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Cough Type,Non-productive,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Diet Type,NPO,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Bowel Sounds,Present,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Urine Color,Yellow,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,GU Catheter Size,16 French,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Support Systems,Significant Other,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Skin Integrity,Intact,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Skin Temperature,Warm,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Skin Color,Pale,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Edema Location,None,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Turn,Side to Side,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Response,Needs reinforcement,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Barrier,None,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Readiness,Yes,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Topic,Plan of Care,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Education Learner,Significant Other/Family,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Activity,Bedrest,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,PostTib. Pulses R,Easily Palpable,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-30 04:00:00,0 days 17:27:10,PostTib. Pulses L,Easily Palpable,,
+293325,2120-10-30 04:26:00,0 days 17:53:10,PH (Arterial),7.49,7.49,units
+293325,2120-10-30 04:26:00,0 days 17:53:10,Arterial O2 pressure,41,41.0,mmHg
+293325,2120-10-30 04:26:00,0 days 17:53:10,Arterial CO2 Pressure,52,52.0,mmHg
+293325,2120-10-30 04:26:00,0 days 17:53:10,Lactic Acid,1.6,1.6,mmol/L
+293325,2120-10-30 04:26:00,0 days 17:53:10,Arterial Base Excess,13,13.0,mEq/L
+293325,2120-10-30 04:26:00,0 days 17:53:10,TCO2 (calc) Arterial,41,41.0,mEq/L
+293325,2120-10-30 04:52:00,0 days 18:19:10,20 Gauge Site Appear,WNL,,
+293325,2120-10-30 04:52:00,0 days 18:19:10,20 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 04:52:00,0 days 18:19:10,20 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 04:52:00,0 days 18:19:10,20 Gauge placed in the field,0,0.0,
+293325,2120-10-30 05:00:00,0 days 18:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-30 05:00:00,0 days 18:27:10,Heart Rate,132,132.0,bpm
+293325,2120-10-30 05:00:00,0 days 18:27:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-30 05:00:00,0 days 18:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-30 05:00:00,0 days 18:27:10,Heart Rhythm,AF (Atrial Fibrillation),,
+293325,2120-10-30 05:00:00,0 days 18:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-30 05:01:00,0 days 18:28:10,O2 saturation pulseoxymetry,88,88.0,%
+293325,2120-10-30 05:21:00,0 days 18:48:10,Non Invasive Blood Pressure systolic,98,98.0,mmHg
+293325,2120-10-30 05:21:00,0 days 18:48:10,Non Invasive Blood Pressure diastolic,51,51.0,mmHg
+293325,2120-10-30 06:00:00,0 days 19:27:10,O2 saturation pulseoxymetry,97,97.0,%
+293325,2120-10-30 06:00:00,0 days 19:27:10,Non Invasive Blood Pressure systolic,100,100.0,mmHg
+293325,2120-10-30 06:00:00,0 days 19:27:10,Heart Rate,110,110.0,bpm
+293325,2120-10-30 06:00:00,0 days 19:27:10,Non Invasive Blood Pressure mean,67,67.0,mmHg
+293325,2120-10-30 06:00:00,0 days 19:27:10,Non Invasive Blood Pressure diastolic,57,57.0,mmHg
+293325,2120-10-30 06:00:00,0 days 19:27:10,Respiratory Rate,33,33.0,insp/min
+293325,2120-10-30 06:00:00,0 days 19:27:10,Heart Rhythm,AF (Atrial Fibrillation),,
+293325,2120-10-30 06:00:00,0 days 19:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 06:14:00,0 days 19:41:10,Stool Estimate,Small,,
+293325,2120-10-30 07:00:00,0 days 20:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 07:00:00,0 days 20:27:10,Heart Rate,102,102.0,bpm
+293325,2120-10-30 07:00:00,0 days 20:27:10,Non Invasive Blood Pressure diastolic,59,59.0,mmHg
+293325,2120-10-30 07:00:00,0 days 20:27:10,Non Invasive Blood Pressure mean,63,63.0,mmHg
+293325,2120-10-30 07:00:00,0 days 20:27:10,Respiratory Rate,36,36.0,insp/min
+293325,2120-10-30 07:00:00,0 days 20:27:10,Heart Rhythm,AF (Atrial Fibrillation),,
+293325,2120-10-30 07:00:00,0 days 20:27:10,Non Invasive Blood Pressure systolic,96,96.0,mmHg
+293325,2120-10-30 07:00:00,0 days 20:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-30 08:00:00,0 days 21:27:10,LU Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RU Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Cough Reflex,Intact,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Gag Reflex,Intact,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Speech,Normal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-30 08:00:00,0 days 21:27:10,Non Invasive Blood Pressure systolic,112,112.0,mmHg
+293325,2120-10-30 08:00:00,0 days 21:27:10,Non Invasive Blood Pressure diastolic,56,56.0,mmHg
+293325,2120-10-30 08:00:00,0 days 21:27:10,Non Invasive Blood Pressure mean,69,69.0,mmHg
+293325,2120-10-30 08:00:00,0 days 21:27:10,Respiratory Rate,29,29.0,insp/min
+293325,2120-10-30 08:00:00,0 days 21:27:10,Temperature Fahrenheit,97.4,97.4,?F
+293325,2120-10-30 08:00:00,0 days 21:27:10,Non-Invasive Blood Pressure Alarm - Low,80,80.0,mmHg
+293325,2120-10-30 08:00:00,0 days 21:27:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-30 08:00:00,0 days 21:27:10,O2 saturation pulseoxymetry,93,93.0,%
+293325,2120-10-30 08:00:00,0 days 21:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LL Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RL Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,GCS - Verbal Response,Oriented,5.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-30 08:00:00,0 days 21:27:10,Orientation,Oriented x3,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Heart Rate,106,106.0,bpm
+293325,2120-10-30 08:00:00,0 days 21:27:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,O2 Saturation Pulseoxymetry Alarm - Low,90,90.0,%
+293325,2120-10-30 08:00:00,0 days 21:27:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-30 08:00:00,0 days 21:27:10,LUE Color,Normal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LLE Color,Normal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Cough Effort,Weak,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Cough Type,Non-productive,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Diet Type,House - Regular,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Bowel Sounds,Present,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Urine Color,Light Yellow,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,GU Catheter Size,16 French,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Support Systems,Relative,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Support Systems,Significant Other,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Support Systems,Social Services,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Family Communication,Family Talked to MD,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Family Communication,Family Talked to RN,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Family Communication,Family Visited,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Family Communication,Social Service Involved,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Skin Integrity,Intact,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Skin Temperature,Warm,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Skin Color,Pale,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Edema Location,None,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Sensory Perception,No Impairment,4.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Moisture,Rarely Moist,4.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Learner,Patient/Significant Other,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Topic,Coping,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Topic,Plan of Care,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Readiness,Yes,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Barrier,None,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Method,Explanation,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Education Response,Understands,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Turn,Side to Side,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Activity,Bedrest,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,20 Gauge placed in the field,0,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RUE Color,Normal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Safety Measures_U_1,"Quiet, calm space",,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Safety Measures_U_1,Pain evaluated and treated,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,All Medications Tolerated without Adverse Side Effects,Yes,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Radial Pulse R,Strong/Palpable,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Radial Pulse L,Strong/Palpable,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Capillary Refill R,Normal <3 Seconds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RLE Color,Normal,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-30 08:00:00,0 days 21:27:10,20 Gauge Site Appear,WNL,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Urine Appearance,Clear,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Skin Condition,Dry ,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Resp Alarm - High,50,50.0,insp/min
+293325,2120-10-30 08:00:00,0 days 21:27:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-30 08:00:00,0 days 21:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Alarms On,1,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,20 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,20 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Position,Supine,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Capillary Refill L,Normal <3 Seconds,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Temperature Site,Oral,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Response,Localizes,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RUE Temp,Warm,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LUE Temp,Warm,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,RLE Temp,Warm,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,LLE Temp,Warm,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-30 08:00:00,0 days 21:27:10,NBP Alarm Source,Systolic,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Level of Consciousness,Alert,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 08:00:00,0 days 21:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 09:00:00,0 days 22:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 09:00:00,0 days 22:27:10,Heart Rate,102,102.0,bpm
+293325,2120-10-30 09:00:00,0 days 22:27:10,Non Invasive Blood Pressure systolic,95,95.0,mmHg
+293325,2120-10-30 09:00:00,0 days 22:27:10,Non Invasive Blood Pressure diastolic,57,57.0,mmHg
+293325,2120-10-30 09:00:00,0 days 22:27:10,Non Invasive Blood Pressure mean,62,62.0,mmHg
+293325,2120-10-30 09:00:00,0 days 22:27:10,Respiratory Rate,26,26.0,insp/min
+293325,2120-10-30 09:00:00,0 days 22:27:10,O2 saturation pulseoxymetry,97,97.0,%
+293325,2120-10-30 09:00:00,0 days 22:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-30 10:00:00,0 days 23:27:10,Non Invasive Blood Pressure mean,63,63.0,mmHg
+293325,2120-10-30 10:00:00,0 days 23:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 10:00:00,0 days 23:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 10:00:00,0 days 23:27:10,Pain Present,No,,
+293325,2120-10-30 10:00:00,0 days 23:27:10,Heart Rate,95,95.0,bpm
+293325,2120-10-30 10:00:00,0 days 23:27:10,Non Invasive Blood Pressure systolic,93,93.0,mmHg
+293325,2120-10-30 10:00:00,0 days 23:27:10,Non Invasive Blood Pressure diastolic,53,53.0,mmHg
+293325,2120-10-30 10:00:00,0 days 23:27:10,Respiratory Rate,37,37.0,insp/min
+293325,2120-10-30 10:00:00,0 days 23:27:10,O2 saturation pulseoxymetry,98,98.0,%
+293325,2120-10-30 10:00:00,0 days 23:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 10:33:00,1 days 00:00:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 10:33:00,1 days 00:00:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-30 10:33:00,1 days 00:00:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 10:33:00,1 days 00:00:10,CAM-ICU MS Change,No,0.0,
+293325,2120-10-30 10:33:00,1 days 00:00:10,Delirium assessment,Negative,,
+293325,2120-10-30 11:00:00,1 days 00:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-30 11:00:00,1 days 00:27:10,O2 saturation pulseoxymetry,98,98.0,%
+293325,2120-10-30 11:00:00,1 days 00:27:10,Heart Rate,102,102.0,bpm
+293325,2120-10-30 11:00:00,1 days 00:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-30 11:00:00,1 days 00:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 11:29:00,1 days 00:56:10,Non Invasive Blood Pressure mean,60,60.0,mmHg
+293325,2120-10-30 11:29:00,1 days 00:56:10,Non Invasive Blood Pressure systolic,103,103.0,mmHg
+293325,2120-10-30 11:29:00,1 days 00:56:10,Non Invasive Blood Pressure diastolic,47,47.0,mmHg
+293325,2120-10-30 12:00:00,1 days 01:27:10,O2 saturation pulseoxymetry,100,100.0,%
+293325,2120-10-30 12:00:00,1 days 01:27:10,Respiratory Rate,40,40.0,insp/min
+293325,2120-10-30 12:00:00,1 days 01:27:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-30 12:00:00,1 days 01:27:10,Non Invasive Blood Pressure systolic,99,99.0,mmHg
+293325,2120-10-30 12:00:00,1 days 01:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Heart Rate,89,89.0,bpm
+293325,2120-10-30 12:00:00,1 days 01:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Non Invasive Blood Pressure mean,63,63.0,mmHg
+293325,2120-10-30 12:00:00,1 days 01:27:10,Head of Bed,15 Degrees,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Turn,Side to Side,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Activity,Bedrest,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,20 Gauge placed in the field,0,0.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Position,Left Side,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,20 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,20 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Alarms On,1,1.0,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,20 Gauge Site Appear,WNL,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 12:00:00,1 days 01:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 13:00:00,1 days 02:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 13:00:00,1 days 02:27:10,Non Invasive Blood Pressure diastolic,46,46.0,mmHg
+293325,2120-10-30 13:00:00,1 days 02:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 13:00:00,1 days 02:27:10,Heart Rate,84,84.0,bpm
+293325,2120-10-30 13:00:00,1 days 02:27:10,Non Invasive Blood Pressure systolic,90,90.0,mmHg
+293325,2120-10-30 13:00:00,1 days 02:27:10,Respiratory Rate,39,39.0,insp/min
+293325,2120-10-30 13:00:00,1 days 02:27:10,Non Invasive Blood Pressure mean,57,57.0,mmHg
+293325,2120-10-30 13:00:00,1 days 02:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-30 14:00:00,1 days 03:27:10,Non Invasive Blood Pressure systolic,94,94.0,mmHg
+293325,2120-10-30 14:00:00,1 days 03:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-30 14:00:00,1 days 03:27:10,Non Invasive Blood Pressure diastolic,47,47.0,mmHg
+293325,2120-10-30 14:00:00,1 days 03:27:10,Non Invasive Blood Pressure mean,59,59.0,mmHg
+293325,2120-10-30 14:00:00,1 days 03:27:10,Respiratory Rate,38,38.0,insp/min
+293325,2120-10-30 14:00:00,1 days 03:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 14:00:00,1 days 03:27:10,Heart Rate,84,84.0,bpm
+293325,2120-10-30 14:00:00,1 days 03:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 15:00:00,1 days 04:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 15:00:00,1 days 04:27:10,Temperature Site,Oral,,
+293325,2120-10-30 15:00:00,1 days 04:27:10,Non Invasive Blood Pressure diastolic,50,50.0,mmHg
+293325,2120-10-30 15:00:00,1 days 04:27:10,Respiratory Rate,32,32.0,insp/min
+293325,2120-10-30 15:00:00,1 days 04:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 15:00:00,1 days 04:27:10,Temperature Fahrenheit,96.8,96.8,?F
+293325,2120-10-30 15:00:00,1 days 04:27:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-30 15:00:00,1 days 04:27:10,Heart Rate,90,90.0,bpm
+293325,2120-10-30 15:00:00,1 days 04:27:10,Non Invasive Blood Pressure systolic,101,101.0,mmHg
+293325,2120-10-30 15:00:00,1 days 04:27:10,Non Invasive Blood Pressure mean,62,62.0,mmHg
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge Site Appear,WNL,,
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge Site Appear,Oozing,,
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge Reason Discontinued,Treatment Discontinued,,
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 15:36:00,1 days 05:03:10,20 Gauge placed in the field,0,0.0,
+293325,2120-10-30 15:37:00,1 days 05:04:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 15:37:00,1 days 05:04:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 15:37:00,1 days 05:04:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 15:37:00,1 days 05:04:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Resp Alarm - High,50,50.0,insp/min
+293325,2120-10-30 16:00:00,1 days 05:27:10,Skin Care,1,1.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Back Care,1,1.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Skin Condition,Dry ,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Urine Appearance,Clear,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Level of Consciousness,Lethargic,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,NBP Alarm Source,Systolic,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LLE Temp,Warm,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RLE Temp,Warm,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LUE Temp,Warm,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RUE Temp,Warm,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Response,Localizes,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Capillary Refill L,Normal <3 Seconds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Position,Right Side,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Alarms On,1,1.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-30 16:00:00,1 days 05:27:10,LL Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,O2 saturation pulseoxymetry,91,91.0,%
+293325,2120-10-30 16:00:00,1 days 05:27:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-30 16:00:00,1 days 05:27:10,Non-Invasive Blood Pressure Alarm - Low,80,80.0,mmHg
+293325,2120-10-30 16:00:00,1 days 05:27:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-30 16:00:00,1 days 05:27:10,O2 Saturation Pulseoxymetry Alarm - Low,90,90.0,%
+293325,2120-10-30 16:00:00,1 days 05:27:10,Orientation,Oriented x2,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Speech,Normal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Gag Reflex,Intact,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Cough Reflex,Intact,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RU Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RL Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LU Strength/Movement,Lifts and Holds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,GCS - Eye Opening,Spontaneously,4.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Pain Present,No,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Heart Rate,83,83.0,bpm
+293325,2120-10-30 16:00:00,1 days 05:27:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-30 16:00:00,1 days 05:27:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-30 16:00:00,1 days 05:27:10,Non Invasive Blood Pressure systolic,88,88.0,mmHg
+293325,2120-10-30 16:00:00,1 days 05:27:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-30 16:00:00,1 days 05:27:10,Non Invasive Blood Pressure mean,61,61.0,mmHg
+293325,2120-10-30 16:00:00,1 days 05:27:10,Respiratory Rate,19,19.0,insp/min
+293325,2120-10-30 16:00:00,1 days 05:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,All Medications Tolerated without Adverse Side Effects,Yes,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Dorsal PedPulse R,Strong/Palpable,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Radial Pulse R,Strong/Palpable,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Dorsal PedPulse L,Strong/Palpable,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Radial Pulse L,Strong/Palpable,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Capillary Refill R,Normal <3 Seconds,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RUE Color,Normal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RLE Color,Normal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LUE Color,Normal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LLE Color,Normal,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Cough Effort,Weak,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Cough Type,Non-productive,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Diet Type,House - Regular,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Bowel Sounds,Present,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Urine Color,Light Yellow,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,GU Catheter Size,16 French,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Skin Integrity,Intact,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Skin Temperature,Warm,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Skin Color,Pale,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Edema Location,None,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Head of Bed,15 Degrees,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Turn,Side to Side,,
+293325,2120-10-30 16:00:00,1 days 05:27:10,Activity,Bedrest,,
+293325,2120-10-30 17:00:00,1 days 06:27:10,22 Gauge placed in the field,0,0.0,
+293325,2120-10-30 17:00:00,1 days 06:27:10,22 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 17:00:00,1 days 06:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 17:00:00,1 days 06:27:10,O2 Delivery Device(s),Nasal cannula,,
+293325,2120-10-30 17:00:00,1 days 06:27:10,O2 Flow (additional cannula),6,6.0,L/min
+293325,2120-10-30 17:00:00,1 days 06:27:10,22 Gauge Site Appear,WNL,,
+293325,2120-10-30 17:00:00,1 days 06:27:10,22 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 17:00:00,1 days 06:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-30 17:00:00,1 days 06:27:10,Non Invasive Blood Pressure diastolic,38,38.0,mmHg
+293325,2120-10-30 17:00:00,1 days 06:27:10,Non Invasive Blood Pressure systolic,88,88.0,mmHg
+293325,2120-10-30 17:00:00,1 days 06:27:10,Heart Rate,91,91.0,bpm
+293325,2120-10-30 17:00:00,1 days 06:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-30 17:00:00,1 days 06:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-30 17:00:00,1 days 06:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 17:00:00,1 days 06:27:10,Respiratory Rate,26,26.0,insp/min
+293325,2120-10-30 17:00:00,1 days 06:27:10,Non Invasive Blood Pressure mean,51,51.0,mmHg
+293325,2120-10-30 17:19:00,1 days 06:46:10,O2 saturation pulseoxymetry,95,95.0,%
+293325,2120-10-30 17:40:00,1 days 07:07:10,Heart Rate,89,89.0,bpm
+293325,2120-10-30 17:40:00,1 days 07:07:10,Respiratory Rate,37,37.0,insp/min
+293325,2120-10-30 17:44:00,1 days 07:11:10,Non Invasive Blood Pressure systolic,97,97.0,mmHg
+293325,2120-10-30 17:44:00,1 days 07:11:10,Non Invasive Blood Pressure mean,65,65.0,mmHg
+293325,2120-10-30 17:44:00,1 days 07:11:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-30 17:45:00,1 days 07:12:10,O2 saturation pulseoxymetry,84,84.0,%
+293325,2120-10-30 18:00:00,1 days 07:27:10,GCS - Eye Opening,To Speech,3.0,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Non Invasive Blood Pressure systolic,94,94.0,mmHg
+293325,2120-10-30 18:00:00,1 days 07:27:10,Non Invasive Blood Pressure diastolic,47,47.0,mmHg
+293325,2120-10-30 18:00:00,1 days 07:27:10,Non Invasive Blood Pressure mean,59,59.0,mmHg
+293325,2120-10-30 18:00:00,1 days 07:27:10,Respiratory Rate,30,30.0,insp/min
+293325,2120-10-30 18:00:00,1 days 07:27:10,Speech,Normal,,
+293325,2120-10-30 18:00:00,1 days 07:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 18:00:00,1 days 07:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Heart Rate,89,89.0,bpm
+293325,2120-10-30 18:00:00,1 days 07:27:10,Orientation,Oriented x2,,
+293325,2120-10-30 18:00:00,1 days 07:27:10,O2 saturation pulseoxymetry,86,86.0,%
+293325,2120-10-30 18:00:00,1 days 07:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Respiratory Effort,Dyspneic,,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Level of Consciousness,Arouse to Voice,,
+293325,2120-10-30 18:00:00,1 days 07:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 18:45:00,1 days 08:12:10,Respiratory Rate,33,33.0,insp/min
+293325,2120-10-30 18:45:00,1 days 08:12:10,O2 saturation pulseoxymetry,75,75.0,%
+293325,2120-10-30 19:00:00,1 days 08:27:10,Non Invasive Blood Pressure mean,86,86.0,mmHg
+293325,2120-10-30 19:00:00,1 days 08:27:10,Non Invasive Blood Pressure diastolic,30,30.0,mmHg
+293325,2120-10-30 19:00:00,1 days 08:27:10,Non Invasive Blood Pressure systolic,80,80.0,mmHg
+293325,2120-10-30 19:00:00,1 days 08:27:10,Heart Rate,96,96.0,bpm
+293325,2120-10-30 19:00:00,1 days 08:27:10,O2 saturation pulseoxymetry,81,81.0,%
+293325,2120-10-30 19:00:00,1 days 08:27:10,Respiratory Rate,28,28.0,insp/min
+293325,2120-10-30 19:00:00,1 days 08:27:10,Temperature Fahrenheit,96.4,96.4,?F
+293325,2120-10-30 19:00:00,1 days 08:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 19:00:00,1 days 08:27:10,Temperature Site,Oral,,
+293325,2120-10-30 19:00:00,1 days 08:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Level of Consciousness,Lethargic,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,NBP Alarm Source,Systolic,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-30 20:00:00,1 days 09:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Position,Left Side,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,22 Gauge Site Appear,WNL,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Parameters Checked,1,1.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Capillary Refill L,Normal <3 Seconds,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Response,Localizes,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,22 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,22 Gauge placed in outside facility,0,0.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Resp Alarm - High,50,50.0,insp/min
+293325,2120-10-30 20:00:00,1 days 09:27:10,Alarms On,1,1.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Skin Condition,Dry ,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Urine Appearance,Cloudy,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,LU Strength/Movement,Lifts/falls back,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Orientation,Oriented x1,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Pain Present,No,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,GCS - Eye Opening,To Speech,3.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Gag Reflex,Intact,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Cough Reflex,Intact,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,O2 saturation pulseoxymetry,88,88.0,%
+293325,2120-10-30 20:00:00,1 days 09:27:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-30 20:00:00,1 days 09:27:10,Non-Invasive Blood Pressure Alarm - Low,80,80.0,mmHg
+293325,2120-10-30 20:00:00,1 days 09:27:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-30 20:00:00,1 days 09:27:10,O2 Saturation Pulseoxymetry Alarm - Low,80,80.0,%
+293325,2120-10-30 20:00:00,1 days 09:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-30 20:00:00,1 days 09:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Speech,Slurred,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,RU Strength/Movement,Lifts/falls back,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,RL Strength/Movement,Moves on Bed,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,LL Strength/Movement,Moves on Bed,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Heart Rate,86,86.0,bpm
+293325,2120-10-30 20:00:00,1 days 09:27:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-30 20:00:00,1 days 09:27:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-30 20:00:00,1 days 09:27:10,Respiratory Rate,31,31.0,insp/min
+293325,2120-10-30 20:00:00,1 days 09:27:10,Capillary Refill R,Normal <3 Seconds,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Moisture,Occasionally Moist,3.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Activity,Bedrest,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Turn,Left Side,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Braden Sensory Perception,Slight Impairment,3.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Edema Location,None,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,22 Gauge placed in the field,0,0.0,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Skin Color,Pale,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Skin Temperature,Warm,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Skin Integrity,Intact,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,GU Catheter Size,16 French,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Urine Color,Yellow,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Bowel Sounds,Present,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Cough Type,Non-productive,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Cough Effort,Weak,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,LLL Lung Sounds,Crackles,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,LUL Lung Sounds,Crackles,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,RUL Lung Sounds,Tubular,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Radial Pulse L,Easily Palpable,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Dorsal PedPulse L,Easily Palpable,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Radial Pulse R,Easily Palpable,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Dorsal PedPulse R,Easily Palpable,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,All Medications Tolerated without Adverse Side Effects,Yes,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-30 20:00:00,1 days 09:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-30 20:51:00,1 days 10:18:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,Gait/Transferring,Weak,10.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-30 20:51:00,1 days 10:18:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-30 20:53:00,1 days 10:20:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-30 20:53:00,1 days 10:20:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-30 20:53:00,1 days 10:20:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-30 20:53:00,1 days 10:20:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-30 21:00:00,1 days 10:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 21:00:00,1 days 10:27:10,Heart Rate,80,80.0,bpm
+293325,2120-10-30 21:00:00,1 days 10:27:10,Respiratory Rate,30,30.0,insp/min
+293325,2120-10-30 21:00:00,1 days 10:27:10,O2 saturation pulseoxymetry,80,80.0,%
+293325,2120-10-30 21:00:00,1 days 10:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 21:59:00,1 days 11:26:10,Non Invasive Blood Pressure diastolic,54,54.0,mmHg
+293325,2120-10-30 21:59:00,1 days 11:26:10,Non Invasive Blood Pressure systolic,96,96.0,mmHg
+293325,2120-10-30 21:59:00,1 days 11:26:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-30 22:00:00,1 days 11:27:10,O2 saturation pulseoxymetry,81,81.0,%
+293325,2120-10-30 22:00:00,1 days 11:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Heart Rate,85,85.0,bpm
+293325,2120-10-30 22:00:00,1 days 11:27:10,Respiratory Rate,37,37.0,insp/min
+293325,2120-10-30 22:00:00,1 days 11:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Turn,Back,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Activity,Bedrest,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Side Rails,3 rails up,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Activity Tolerance,Good,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Position,Supine,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-30 22:00:00,1 days 11:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-30 23:00:00,1 days 12:27:10,Ectopy Type 1,None,,
+293325,2120-10-30 23:00:00,1 days 12:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-30 23:00:00,1 days 12:27:10,Non Invasive Blood Pressure mean,71,71.0,mmHg
+293325,2120-10-30 23:00:00,1 days 12:27:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-30 23:00:00,1 days 12:27:10,Non Invasive Blood Pressure systolic,133,133.0,mmHg
+293325,2120-10-30 23:00:00,1 days 12:27:10,Heart Rate,108,108.0,bpm
+293325,2120-10-30 23:00:00,1 days 12:27:10,Pain Present,No,,
+293325,2120-10-30 23:00:00,1 days 12:27:10,O2 saturation pulseoxymetry,81,81.0,%
+293325,2120-10-30 23:00:00,1 days 12:27:10,Respiratory Rate,28,28.0,insp/min
+293325,2120-10-30 23:00:00,1 days 12:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-30 23:45:00,1 days 13:12:10,CAM-ICU MS Change,Unable to Assess,0.0,
+293325,2120-10-30 23:45:00,1 days 13:12:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-30 23:45:00,1 days 13:12:10,Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 23:45:00,1 days 13:12:10,Goal Richmond-RAS Scale, 0  Alert and calm,0.0,
+293325,2120-10-30 23:45:00,1 days 13:12:10,Delirium assessment,UTA,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Assistance Device,Mechanical Lift,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Activity,Bedrest,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Turn,Right Side,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Alarms On,1,1.0,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Position,Right Side,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Activity Tolerance,Good,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Parameters Checked,1,1.0,
+293325,2120-10-31 00:00:00,1 days 13:27:10,O2 saturation pulseoxymetry,84,84.0,%
+293325,2120-10-31 00:00:00,1 days 13:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-31 00:00:00,1 days 13:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 00:00:00,1 days 13:27:10,Heart Rate,92,92.0,bpm
+293325,2120-10-31 00:00:00,1 days 13:27:10,Respiratory Rate,25,25.0,insp/min
+293325,2120-10-31 00:02:00,1 days 13:29:10,Non Invasive Blood Pressure mean,52,52.0,mmHg
+293325,2120-10-31 00:02:00,1 days 13:29:10,Non Invasive Blood Pressure systolic,95,95.0,mmHg
+293325,2120-10-31 00:02:00,1 days 13:29:10,Non Invasive Blood Pressure diastolic,38,38.0,mmHg
+293325,2120-10-31 01:00:00,1 days 14:27:10,Non Invasive Blood Pressure systolic,94,94.0,mmHg
+293325,2120-10-31 01:00:00,1 days 14:27:10,Heart Rate,90,90.0,bpm
+293325,2120-10-31 01:00:00,1 days 14:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 01:00:00,1 days 14:27:10,Non Invasive Blood Pressure mean,52,52.0,mmHg
+293325,2120-10-31 01:00:00,1 days 14:27:10,O2 saturation pulseoxymetry,82,82.0,%
+293325,2120-10-31 01:00:00,1 days 14:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-31 01:00:00,1 days 14:27:10,Non Invasive Blood Pressure diastolic,42,42.0,mmHg
+293325,2120-10-31 01:00:00,1 days 14:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Position,Supine,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Activity Tolerance,Good,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Activity,Bedrest,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Turn,Back,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 02:00:00,1 days 15:27:10,Heart Rate,89,89.0,bpm
+293325,2120-10-31 02:00:00,1 days 15:27:10,Non Invasive Blood Pressure systolic,92,92.0,mmHg
+293325,2120-10-31 02:00:00,1 days 15:27:10,Non Invasive Blood Pressure diastolic,49,49.0,mmHg
+293325,2120-10-31 02:00:00,1 days 15:27:10,Non Invasive Blood Pressure mean,58,58.0,mmHg
+293325,2120-10-31 02:00:00,1 days 15:27:10,Respiratory Rate,38,38.0,insp/min
+293325,2120-10-31 02:00:00,1 days 15:27:10,O2 saturation pulseoxymetry,82,82.0,%
+293325,2120-10-31 03:00:00,1 days 16:27:10,O2 saturation pulseoxymetry,80,80.0,%
+293325,2120-10-31 03:00:00,1 days 16:27:10,Respiratory Rate,40,40.0,insp/min
+293325,2120-10-31 03:00:00,1 days 16:27:10,Non Invasive Blood Pressure mean,53,53.0,mmHg
+293325,2120-10-31 03:00:00,1 days 16:27:10,Non Invasive Blood Pressure systolic,103,103.0,mmHg
+293325,2120-10-31 03:00:00,1 days 16:27:10,Non Invasive Blood Pressure diastolic,43,43.0,mmHg
+293325,2120-10-31 03:00:00,1 days 16:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 03:00:00,1 days 16:27:10,Heart Rate,93,93.0,bpm
+293325,2120-10-31 03:00:00,1 days 16:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Urine Appearance,Sediment,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Level of Consciousness,Lethargic,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Ambulatory aid,None,0.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Gait/Transferring,Weak,10.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,High risk (>51) interventions,1,1.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Alarms On,1,1.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Parameters Checked,1,1.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Position,Right Side,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Activity Tolerance,Good,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Temperature Site,Axillary,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Response,Localizes,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Speech,Slurred,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,LL Strength/Movement,Moves on Bed,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,LU Strength/Movement,Lifts/falls back,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,RL Strength/Movement,Moves on Bed,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,RU Strength/Movement,Lifts/falls back,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Cough Reflex,Intact,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Gag Reflex,Intact,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Orientation,Unable to Assess,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Pain Present,No,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,GCS - Eye Opening,To Speech,3.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Heart Rate,96,96.0,bpm
+293325,2120-10-31 04:00:00,1 days 17:27:10,Non Invasive Blood Pressure systolic,102,102.0,mmHg
+293325,2120-10-31 04:00:00,1 days 17:27:10,Non Invasive Blood Pressure diastolic,41,41.0,mmHg
+293325,2120-10-31 04:00:00,1 days 17:27:10,Non Invasive Blood Pressure mean,57,57.0,mmHg
+293325,2120-10-31 04:00:00,1 days 17:27:10,Respiratory Rate,29,29.0,insp/min
+293325,2120-10-31 04:00:00,1 days 17:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-31 04:00:00,1 days 17:27:10,Temperature Fahrenheit,97.7,97.7,?F
+293325,2120-10-31 04:00:00,1 days 17:27:10,O2 saturation pulseoxymetry,84,84.0,%
+293325,2120-10-31 04:00:00,1 days 17:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Skin Temperature,Warm,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Skin Integrity,Intact,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Head of Bed,45 Degrees,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Turn,Right Side,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Activity,Bedrest,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Urine Color,Amber,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Cough Type,Non-productive,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Cough Effort,Weak,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Respiratory Effort,Dyspneic,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,RUL Lung Sounds,Tubular,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Radial Pulse L,Easily Palpable,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Dorsal PedPulse L,Easily Palpable,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Radial Pulse R,Easily Palpable,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Dorsal PedPulse R,Easily Palpable,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Moisture,Occasionally Moist,3.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Braden Sensory Perception,Slight Impairment,3.0,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Edema Location,None,,
+293325,2120-10-31 04:00:00,1 days 17:27:10,Skin Color,Pale,,
+293325,2120-10-31 04:26:00,1 days 17:53:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-31 04:26:00,1 days 17:53:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-31 04:26:00,1 days 17:53:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-31 04:26:00,1 days 17:53:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-31 04:27:00,1 days 17:54:10,22 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-31 04:27:00,1 days 17:54:10,22 Gauge Site Appear,WNL,,
+293325,2120-10-31 04:27:00,1 days 17:54:10,22 Gauge placed in outside facility,0,0.0,
+293325,2120-10-31 04:27:00,1 days 17:54:10,22 Gauge placed in the field,0,0.0,
+293325,2120-10-31 04:45:00,1 days 18:12:10,BUN,17,17.0,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Platelet Count,45,45.0,K/uL
+293325,2120-10-31 04:45:00,1 days 18:12:10,HCO3 (serum),37,37.0,mEq/L
+293325,2120-10-31 04:45:00,1 days 18:12:10,Potassium (serum),3.7,3.7,mEq/L
+293325,2120-10-31 04:45:00,1 days 18:12:10,Anion gap,9,9.0,mEq/L
+293325,2120-10-31 04:45:00,1 days 18:12:10,Phosphorous,3.2,3.2,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Calcium non-ionized,7.2,7.2,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,WBC,23.2,23.2,K/uL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Hematocrit (serum),25.1,25.1,%
+293325,2120-10-31 04:45:00,1 days 18:12:10,Hemoglobin,8.3,8.3,g/dl
+293325,2120-10-31 04:45:00,1 days 18:12:10,Sodium (serum),140,140.0,mEq/L
+293325,2120-10-31 04:45:00,1 days 18:12:10,Magnesium,1.7,1.7,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Glucose (serum),83,83.0,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Creatinine,.8,0.8,mg/dL
+293325,2120-10-31 04:45:00,1 days 18:12:10,Chloride (serum),98,98.0,mEq/L
+293325,2120-10-31 05:00:00,1 days 18:27:10,Non Invasive Blood Pressure diastolic,79,79.0,mmHg
+293325,2120-10-31 05:00:00,1 days 18:27:10,Non Invasive Blood Pressure mean,86,86.0,mmHg
+293325,2120-10-31 05:00:00,1 days 18:27:10,Respiratory Rate,19,19.0,insp/min
+293325,2120-10-31 05:00:00,1 days 18:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 05:00:00,1 days 18:27:10,O2 saturation pulseoxymetry,70,70.0,%
+293325,2120-10-31 05:00:00,1 days 18:27:10,Heart Rate,113,113.0,bpm
+293325,2120-10-31 05:00:00,1 days 18:27:10,Non Invasive Blood Pressure systolic,109,109.0,mmHg
+293325,2120-10-31 05:00:00,1 days 18:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Position,Supine,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Anti Embolic Device Status,On ,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Activity Tolerance,Good,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Head of Bed,45 Degrees,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Turn,Back,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Activity,Bedrest,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Assistance Device,1 Person Assist,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Safety Measures_U_1,Bed locked in low position,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Safety Measures_U_1,Call light within reach,,
+293325,2120-10-31 06:00:00,1 days 19:27:10,O2 saturation pulseoxymetry,78,78.0,%
+293325,2120-10-31 06:00:00,1 days 19:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 06:00:00,1 days 19:27:10,Respiratory Rate,26,26.0,insp/min
+293325,2120-10-31 06:00:00,1 days 19:27:10,Heart Rate,97,97.0,bpm
+293325,2120-10-31 06:00:00,1 days 19:27:10,Non Invasive Blood Pressure systolic,93,93.0,mmHg
+293325,2120-10-31 06:00:00,1 days 19:27:10,Non Invasive Blood Pressure diastolic,42,42.0,mmHg
+293325,2120-10-31 06:00:00,1 days 19:27:10,Non Invasive Blood Pressure mean,54,54.0,mmHg
+293325,2120-10-31 07:00:00,1 days 20:27:10,O2 saturation pulseoxymetry,71,71.0,%
+293325,2120-10-31 07:00:00,1 days 20:27:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-31 07:00:00,1 days 20:27:10,Non Invasive Blood Pressure systolic,108,108.0,mmHg
+293325,2120-10-31 07:00:00,1 days 20:27:10,Heart Rate,88,88.0,bpm
+293325,2120-10-31 07:00:00,1 days 20:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-31 07:00:00,1 days 20:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 07:00:00,1 days 20:27:10,Non Invasive Blood Pressure mean,65,65.0,mmHg
+293325,2120-10-31 07:00:00,1 days 20:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Resp Alarm - Low,8,8.0,insp/min
+293325,2120-10-31 08:00:00,1 days 21:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Level of Consciousness,Lethargic,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,NBP Alarm Source,Systolic,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,History of falling (within 3 mnths),Yes,25.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Secondary diagnosis,Yes,15.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Ambulatory aid,Bed rest,0.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,IV/Saline lock,Yes,20.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Gait/Transferring,Bed rest,0.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Mental status,Forgets limitations,15.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LLE Temp,Warm,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RLE Temp,Warm,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LUE Temp,Warm,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RUE Temp,Warm,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Response,Localizes,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Capillary Refill L,Normal <3 Seconds,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Resp Alarm - High,50,50.0,insp/min
+293325,2120-10-31 08:00:00,1 days 21:27:10,Alarms On,1,1.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Parameters Checked,1,1.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Skin Condition,Dry ,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Urine Appearance,Clear,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,GCS - Verbal Response,Confused,4.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Orientation,Disoriented,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Pain Assessment Method,Patient Verbalized,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Pain Present,No,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,GCS - Eye Opening,To Speech,3.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-31 08:00:00,1 days 21:27:10,O2 Saturation Pulseoxymetry Alarm - Low,80,80.0,%
+293325,2120-10-31 08:00:00,1 days 21:27:10,O2 Saturation Pulseoxymetry Alarm - High,100,100.0,%
+293325,2120-10-31 08:00:00,1 days 21:27:10,Non-Invasive Blood Pressure Alarm - Low,80,80.0,mmHg
+293325,2120-10-31 08:00:00,1 days 21:27:10,Non-Invasive Blood Pressure Alarm - High,160,160.0,mmHg
+293325,2120-10-31 08:00:00,1 days 21:27:10,O2 saturation pulseoxymetry,76,76.0,%
+293325,2120-10-31 08:00:00,1 days 21:27:10,GCS - Motor Response,Obeys Commands,6.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Speech,Slurred,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Gag Reflex,Intact,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Heart Rate,93,93.0,bpm
+293325,2120-10-31 08:00:00,1 days 21:27:10,Heart rate Alarm - High,130,130.0,bpm
+293325,2120-10-31 08:00:00,1 days 21:27:10,Heart Rate Alarm - Low,50,50.0,bpm
+293325,2120-10-31 08:00:00,1 days 21:27:10,Non Invasive Blood Pressure systolic,103,103.0,mmHg
+293325,2120-10-31 08:00:00,1 days 21:27:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-31 08:00:00,1 days 21:27:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-31 08:00:00,1 days 21:27:10,Respiratory Rate,25,25.0,insp/min
+293325,2120-10-31 08:00:00,1 days 21:27:10,Cough Reflex,Intact,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Spontaneous Movement,Purposeful,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Response to Stimuli (Type),Verbal,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RU Strength/Movement,Lifts and Holds,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RL Strength/Movement,Moves on Bed,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LU Strength/Movement,Lifts/falls back,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LL Strength/Movement,Lifts/falls back,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Safety Measures_U_1,Oriented by RN,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Safety Measures_U_1,Pain evaluated and treated,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Safety Measures_U_1,"Quiet, calm space",,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Richmond-RAS Scale,"-2 Light sedation, briefly awakens to voice (eye opening/contact) < 10 sec",-2.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Dorsal PedPulse R,Easily Palpable,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Radial Pulse R,Strong/Palpable,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Dorsal PedPulse L,Easily Palpable,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Radial Pulse L,Strong/Palpable,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Capillary Refill R,Normal <3 Seconds,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RUE Color,Normal,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RLE Color,Normal,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LUE Color,Normal,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LLE Color,Normal,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RUL Lung Sounds,Diminished,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,RLL Lung Sounds,Diminished,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LUL Lung Sounds,Diminished,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,LLL Lung Sounds,Diminished,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Cough Effort,Weak,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Cough Type,Non-productive,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Oral Cavity,Teeth/Tissue WNL,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Abdominal Assessment,Soft,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Bowel Sounds,Present,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Urine Source,Indwelling Urinary Catheter,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Urine Color,Yellow,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Skin Integrity,Intact,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Skin Temperature,Warm,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Skin Color,Pale,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Edema Location,None,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Sensory Perception,Slight Impairment,3.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Moisture,Rarely Moist,4.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Activity,Bedfast,1.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Mobility,Slight Limitations,3.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Nutrition,Probably Inadequate,2.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Braden Friction/Shear,Potential Problem,2.0,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-31 08:00:00,1 days 21:27:10,ST Segment Monitoring On,1,1.0,
+293325,2120-10-31 09:00:00,1 days 22:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 09:00:00,1 days 22:27:10,Non Invasive Blood Pressure mean,60,60.0,mmHg
+293325,2120-10-31 09:00:00,1 days 22:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 09:00:00,1 days 22:27:10,O2 saturation pulseoxymetry,76,76.0,%
+293325,2120-10-31 09:00:00,1 days 22:27:10,Heart Rate,100,100.0,bpm
+293325,2120-10-31 09:00:00,1 days 22:27:10,Non Invasive Blood Pressure systolic,108,108.0,mmHg
+293325,2120-10-31 09:00:00,1 days 22:27:10,Non Invasive Blood Pressure diastolic,44,44.0,mmHg
+293325,2120-10-31 09:00:00,1 days 22:27:10,Respiratory Rate,30,30.0,insp/min
+293325,2120-10-31 10:00:00,1 days 23:27:10,Respiratory Rate,30,30.0,insp/min
+293325,2120-10-31 10:00:00,1 days 23:27:10,O2 saturation pulseoxymetry,74,74.0,%
+293325,2120-10-31 10:00:00,1 days 23:27:10,Non Invasive Blood Pressure diastolic,45,45.0,mmHg
+293325,2120-10-31 10:00:00,1 days 23:27:10,Non Invasive Blood Pressure mean,56,56.0,mmHg
+293325,2120-10-31 10:00:00,1 days 23:27:10,Heart Rhythm,SR (Sinus Rhythm),,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Non Invasive Blood Pressure systolic,107,107.0,mmHg
+293325,2120-10-31 10:00:00,1 days 23:27:10,Heart Rate,99,99.0,bpm
+293325,2120-10-31 10:00:00,1 days 23:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Assistance Device,2 Person Assist,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Activity,Bedrest,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Turn,Side to Side,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Therapeutic Bed,AtmosAir Mattress,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Activity Tolerance,Fair,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Anti Embolic Device,Compression sleeve,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Eye Care,1,1.0,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Anti Embolic Device Status,Off,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Skin Care,1,1.0,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Back Care,1,1.0,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Oral Care,Swab,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 10:00:00,1 days 23:27:10,Position,Supine,,
+293325,2120-10-31 10:23:00,1 days 23:50:10,22 Gauge Site Appear,WNL,,
+293325,2120-10-31 10:23:00,1 days 23:50:10,22 Gauge Dressing Occlusive,1,1.0,
+293325,2120-10-31 10:23:00,1 days 23:50:10,22 Gauge placed in outside facility,0,0.0,
+293325,2120-10-31 10:23:00,1 days 23:50:10,22 Gauge placed in the field,0,0.0,
+293325,2120-10-31 11:00:00,2 days 00:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 11:00:00,2 days 00:27:10,Respiratory Rate,28,28.0,insp/min
+293325,2120-10-31 11:00:00,2 days 00:27:10,Heart Rate,105,105.0,bpm
+293325,2120-10-31 11:00:00,2 days 00:27:10,O2 saturation pulseoxymetry,62,62.0,%
+293325,2120-10-31 11:00:00,2 days 00:27:10,Temperature Fahrenheit,99.7,99.7,?F
+293325,2120-10-31 11:00:00,2 days 00:27:10,Temperature Site,Axillary,,
+293325,2120-10-31 11:00:00,2 days 00:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 11:09:00,2 days 00:36:10,Non Invasive Blood Pressure diastolic,48,48.0,mmHg
+293325,2120-10-31 11:09:00,2 days 00:36:10,Non Invasive Blood Pressure systolic,98,98.0,mmHg
+293325,2120-10-31 11:09:00,2 days 00:36:10,Non Invasive Blood Pressure mean,59,59.0,mmHg
+293325,2120-10-31 12:00:00,2 days 01:27:10,Heart Rate,111,111.0,bpm
+293325,2120-10-31 12:00:00,2 days 01:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 12:00:00,2 days 01:27:10,O2 saturation pulseoxymetry,69,69.0,%
+293325,2120-10-31 12:00:00,2 days 01:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-31 12:00:00,2 days 01:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-31 12:00:00,2 days 01:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-31 12:00:00,2 days 01:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-31 12:00:00,2 days 01:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 12:00:00,2 days 01:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Activity Tolerance,Fair,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Turn,Side to Side,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Activity,Bedrest,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,Heart Rate,113,113.0,bpm
+293325,2120-10-31 13:00:00,2 days 02:27:10,Respiratory Rate,29,29.0,insp/min
+293325,2120-10-31 13:00:00,2 days 02:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 13:00:00,2 days 02:27:10,O2 saturation pulseoxymetry,67,67.0,%
+293325,2120-10-31 14:00:00,2 days 03:27:10,O2 saturation pulseoxymetry,62,62.0,%
+293325,2120-10-31 14:00:00,2 days 03:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 14:00:00,2 days 03:27:10,Heart Rate,117,117.0,bpm
+293325,2120-10-31 14:00:00,2 days 03:27:10,Respiratory Rate,25,25.0,insp/min
+293325,2120-10-31 14:00:00,2 days 03:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 15:00:00,2 days 04:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 15:00:00,2 days 04:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 15:00:00,2 days 04:27:10,Respiratory Rate,26,26.0,insp/min
+293325,2120-10-31 15:00:00,2 days 04:27:10,Heart Rate,118,118.0,bpm
+293325,2120-10-31 15:00:00,2 days 04:27:10,O2 saturation pulseoxymetry,69,69.0,%
+293325,2120-10-31 16:00:00,2 days 05:27:10,LU Strength/Movement,Moves on Bed,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Speech,None,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Inspired O2 Fraction,100,100.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,O2 Flow,15,15.0,L/min
+293325,2120-10-31 16:00:00,2 days 05:27:10,O2 saturation pulseoxymetry,67,67.0,%
+293325,2120-10-31 16:00:00,2 days 05:27:10,Pain Assessment Method,Non-verbal Cues,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Orientation,Unable to Assess,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,GCS - Verbal Response,Incomprehensible sounds,2.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,GCS - Motor Response,Flex-withdraws,4.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RL Strength/Movement,Moves on Bed,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RU Strength/Movement,Moves on Bed,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,GCS - Eye Opening,None,1.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,LL Strength/Movement,Moves on Bed,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Spontaneous Movement,Non-purposeful,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Heart Rate,121,121.0,bpm
+293325,2120-10-31 16:00:00,2 days 05:27:10,Respiratory Rate,26,26.0,insp/min
+293325,2120-10-31 16:00:00,2 days 05:27:10,Pain Present,No,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Level of Consciousness,Arouse to Stimulation,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Indwelling Port (PortaCath) Site Appear,WNL,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Indwelling (PortaCath) Port Type,Single ,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Ndwelling Port (PortaCath) placed in outside facility,0,0.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Oral Care,Swab,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Indwelling Port (PortaCath) Dressing Occlusive,1,1.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Activity Tolerance,Fair,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Capillary Refill L,Normal <3 Seconds,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RUE Temp,Warm,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,LUE Temp,Warm,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RLE Temp,Warm,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,LLE Temp,Warm,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,O2 Delivery Device(s),Non-rebreather,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Side Rails,3 rails up,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Activity,Bedrest,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Turn,Side to Side,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Head of Bed,30 Degrees,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Cough Effort,None,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,Family at bedside,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Respiratory Pattern,Tachypneic,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,LLE Color,Normal,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,LUE Color,Normal,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RLE Color,Normal,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,RUE Color,Normal,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Capillary Refill R,Normal <3 Seconds,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Radial Pulse L,Strong/Palpable,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Dorsal PedPulse L,Easily Palpable,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Radial Pulse R,Strong/Palpable,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Dorsal PedPulse R,Easily Palpable,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Respiratory Effort,Shallow,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,Hazard-free environment,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,Oriented by RN,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,Pain evaluated and treated,,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,"Quiet, calm space",,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Richmond-RAS Scale,"-3 Moderate sedation, movement or eye opening; No eye contact",-3.0,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Daily Wake Up,"No, not sedated",,
+293325,2120-10-31 16:00:00,2 days 05:27:10,Safety Measures_U_1,Adequate lighting,,
+293325,2120-10-31 16:41:00,2 days 06:08:10,Non Invasive Blood Pressure mean,64,64.0,mmHg
+293325,2120-10-31 16:41:00,2 days 06:08:10,Non Invasive Blood Pressure diastolic,52,52.0,mmHg
+293325,2120-10-31 16:41:00,2 days 06:08:10,Non Invasive Blood Pressure systolic,108,108.0,mmHg
+293325,2120-10-31 17:00:00,2 days 06:27:10,Respiratory Rate,27,27.0,insp/min
+293325,2120-10-31 17:00:00,2 days 06:27:10,Heart Rate,126,126.0,bpm
+293325,2120-10-31 17:00:00,2 days 06:27:10,Heart Rhythm,ST (Sinus Tachycardia) ,,
+293325,2120-10-31 17:00:00,2 days 06:27:10,O2 saturation pulseoxymetry,53,53.0,%
+293325,2120-10-31 17:00:00,2 days 06:27:10,Ectopy Type 1,None,,
+293325,2120-10-31 17:06:00,2 days 06:33:10,Service,MICU/SICU,,
+293325,2120-10-31 17:06:00,2 days 06:33:10,Admission Weight (lbs.),124.1,124.1,
+293325,2120-10-31 17:06:00,2 days 06:33:10,Code Status,Comfort measures only,,
+293325,2120-10-31 18:00:00,2 days 07:27:10,O2 Delivery Device(s),None,,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Race,White,,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Language,English,1.0,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Marital Status,Single,1.0,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Gender,F,2.0,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Religion,Protestant ,7.0,
+293325,2120-10-31 19:34:00,2 days 09:01:10,Patient Location,4I,,

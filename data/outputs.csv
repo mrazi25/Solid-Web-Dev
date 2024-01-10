@@ -1,0 +1,1302 @@
+icustay_id,charttime,icutime,label,value,valueuom
+211552,2101-10-21 01:00:00,0 days 05:49:49,Urine Out Foley,20.0,ml
+211552,2101-10-21 03:00:00,0 days 07:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-21 05:00:00,0 days 09:49:49,Urine Out Foley,5.0,ml
+211552,2101-10-21 07:00:00,0 days 11:49:49,Urine Out Foley,15.0,ml
+211552,2101-10-21 08:00:00,0 days 12:49:49,Urine Out Foley,55.0,ml
+211552,2101-10-21 09:00:00,0 days 13:49:49,Urine Out Foley,42.0,ml
+211552,2101-10-21 12:00:00,0 days 16:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-21 13:00:00,0 days 17:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-21 14:00:00,0 days 18:49:49,Urine Out Foley,30.0,ml
+211552,2101-10-21 15:00:00,0 days 19:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-21 16:00:00,0 days 20:49:49,Urine Out Foley,50.0,ml
+211552,2101-10-21 17:30:00,0 days 22:19:49,Urine Out Foley,60.0,ml
+211552,2101-10-21 18:30:00,0 days 23:19:49,Urine Out Foley,20.0,ml
+211552,2101-10-21 20:00:00,1 days 00:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-21 21:00:00,1 days 01:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-21 22:00:00,1 days 02:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-22 01:00:00,1 days 05:49:49,Urine Out Foley,90.0,ml
+211552,2101-10-22 02:00:00,1 days 06:49:49,Urine Out Foley,90.0,ml
+211552,2101-10-22 03:00:00,1 days 07:49:49,Urine Out Foley,5.0,ml
+211552,2101-10-22 04:00:00,1 days 08:49:49,Urine Out Foley,50.0,ml
+211552,2101-10-22 06:00:00,1 days 10:49:49,Urine Out Foley,90.0,ml
+211552,2101-10-22 08:00:00,1 days 12:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-22 09:00:00,1 days 13:49:49,Urine Out Foley,30.0,ml
+211552,2101-10-22 10:00:00,1 days 14:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-22 11:00:00,1 days 15:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-22 12:00:00,1 days 16:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-22 13:00:00,1 days 17:49:49,Urine Out Foley,100.0,ml
+211552,2101-10-22 15:00:00,1 days 19:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-22 17:00:00,1 days 21:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-22 18:00:00,1 days 22:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-22 19:30:00,2 days 00:19:49,Urine Out Foley,80.0,ml
+211552,2101-10-22 20:00:00,2 days 00:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-22 21:00:00,2 days 01:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-22 22:00:00,2 days 02:49:49,Urine Out Foley,105.0,ml
+211552,2101-10-23 00:00:00,2 days 04:49:49,Gastric Oral Gastric,25.0,ml
+211552,2101-10-23 00:00:00,2 days 04:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-23 01:00:00,2 days 05:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-23 02:00:00,2 days 06:49:49,Urine Out Foley,85.0,ml
+211552,2101-10-23 03:00:00,2 days 07:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-23 04:00:00,2 days 08:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-23 05:00:00,2 days 09:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-23 06:00:00,2 days 10:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-23 08:00:00,2 days 12:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-23 09:00:00,2 days 13:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-23 10:00:00,2 days 14:49:49,Urine Out Foley,135.0,ml
+211552,2101-10-23 11:00:00,2 days 15:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-23 12:00:00,2 days 16:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-23 14:00:00,2 days 18:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-23 15:00:00,2 days 19:49:49,Urine Out Foley,85.0,ml
+211552,2101-10-23 16:00:00,2 days 20:49:49,Urine Out Foley,75.0,ml
+211552,2101-10-23 17:00:00,2 days 21:49:49,Urine Out Foley,600.0,ml
+211552,2101-10-23 18:00:00,2 days 22:49:49,Urine Out Foley,500.0,ml
+211552,2101-10-23 19:30:00,3 days 00:19:49,Urine Out Foley,500.0,ml
+211552,2101-10-23 20:00:00,3 days 00:49:49,Urine Out Foley,240.0,ml
+211552,2101-10-23 21:00:00,3 days 01:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-23 22:00:00,3 days 02:49:49,Urine Out Foley,220.0,ml
+211552,2101-10-23 23:00:00,3 days 03:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-24 00:00:00,3 days 04:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-24 01:00:00,3 days 05:49:49,Urine Out Foley,35.0,ml
+211552,2101-10-24 02:00:00,3 days 06:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-24 03:00:00,3 days 07:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-24 04:00:00,3 days 08:49:49,Urine Out Foley,260.0,ml
+211552,2101-10-24 05:30:00,3 days 10:19:49,Urine Out Foley,180.0,ml
+211552,2101-10-24 06:00:00,3 days 10:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-24 08:00:00,3 days 12:49:49,Urine Out Foley,200.0,ml
+211552,2101-10-24 09:00:00,3 days 13:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-24 10:00:00,3 days 14:49:49,Urine Out Foley,100.0,ml
+211552,2101-10-24 11:00:00,3 days 15:49:49,Urine Out Foley,450.0,ml
+211552,2101-10-24 12:00:00,3 days 16:49:49,Urine Out Foley,340.0,ml
+211552,2101-10-24 13:00:00,3 days 17:49:49,Urine Out Foley,450.0,ml
+211552,2101-10-24 15:00:00,3 days 19:49:49,Urine Out Foley,450.0,ml
+211552,2101-10-24 16:00:00,3 days 20:49:49,Urine Out Foley,300.0,ml
+211552,2101-10-24 16:00:00,3 days 20:49:49,Stool Out Stool,,ml
+211552,2101-10-24 17:00:00,3 days 21:49:49,Urine Out Foley,250.0,ml
+211552,2101-10-24 18:00:00,3 days 22:49:49,Urine Out Foley,600.0,ml
+211552,2101-10-24 19:00:00,3 days 23:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-24 20:00:00,4 days 00:49:49,Urine Out Foley,260.0,ml
+211552,2101-10-24 21:00:00,4 days 01:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-24 22:00:00,4 days 02:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-24 23:00:00,4 days 03:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-25 00:00:00,4 days 04:49:49,Stool Out Stool,,ml
+211552,2101-10-25 00:00:00,4 days 04:49:49,Urine Out Foley,200.0,ml
+211552,2101-10-25 01:00:00,4 days 05:49:49,Urine Out Foley,100.0,ml
+211552,2101-10-25 02:00:00,4 days 06:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-25 04:00:00,4 days 08:49:49,Urine Out Foley,200.0,ml
+211552,2101-10-25 06:00:00,4 days 10:49:49,Urine Out Foley,200.0,ml
+211552,2101-10-25 08:00:00,4 days 12:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-25 10:00:00,4 days 14:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-25 11:00:00,4 days 15:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-25 12:00:00,4 days 16:49:49,Urine Out Foley,340.0,ml
+211552,2101-10-25 13:00:00,4 days 17:49:49,Urine Out Foley,360.0,ml
+211552,2101-10-25 14:00:00,4 days 18:49:49,Urine Out Foley,300.0,ml
+211552,2101-10-25 15:00:00,4 days 19:49:49,Urine Out Foley,340.0,ml
+211552,2101-10-25 16:00:00,4 days 20:49:49,Urine Out Foley,140.0,ml
+211552,2101-10-25 20:00:00,5 days 00:49:49,Stool Out Stool,,ml
+211552,2101-10-25 20:00:00,5 days 00:49:49,Urine Out Foley,160.0,ml
+211552,2101-10-25 22:00:00,5 days 02:49:49,Urine Out Foley,120.0,ml
+211552,2101-10-26 00:00:00,5 days 04:49:49,Urine Out Foley,180.0,ml
+211552,2101-10-26 02:00:00,5 days 06:49:49,Urine Out Foley,180.0,ml
+211552,2101-10-26 04:00:00,5 days 08:49:49,Urine Out Foley,280.0,ml
+211552,2101-10-26 06:00:00,5 days 10:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-26 09:00:00,5 days 13:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-26 10:00:00,5 days 14:49:49,Urine Out Foley,105.0,ml
+211552,2101-10-26 11:00:00,5 days 15:49:49,Urine Out Foley,60.0,ml
+211552,2101-10-26 12:15:00,5 days 17:04:49,Urine Out Foley,150.0,ml
+211552,2101-10-26 13:45:00,5 days 18:34:49,Urine Out Foley,200.0,ml
+211552,2101-10-26 14:00:00,5 days 18:49:49,Urine Out Foley,80.0,ml
+211552,2101-10-26 15:00:00,5 days 19:49:49,Urine Out Foley,200.0,ml
+211552,2101-10-26 16:00:00,5 days 20:49:49,Urine Out Foley,45.0,ml
+211552,2101-10-26 17:00:00,5 days 21:49:49,Urine Out Foley,60.0,ml
+288409,2103-06-28 16:00:00,0 days 04:20:55,Urine .,10.0,ml
+288409,2103-06-28 20:00:00,0 days 08:20:55,Urine .,5.0,ml
+288409,2103-06-29 00:00:00,0 days 12:20:55,Urine .,7.0,ml
+288409,2103-06-29 04:00:00,0 days 16:20:55,Urine .,14.0,ml
+288409,2103-06-29 08:00:00,0 days 20:20:55,Urine .,7.0,ml
+288409,2103-06-29 12:00:00,1 days 00:20:55,Urine .,6.0,ml
+288409,2103-06-29 16:00:00,1 days 04:20:55,Urine .,10.0,ml
+288409,2103-06-29 20:00:00,1 days 08:20:55,Urine .,23.0,ml
+288409,2103-06-30 00:00:00,1 days 12:20:55,Urine .,20.0,ml
+288409,2103-06-30 04:00:00,1 days 16:20:55,Urine .,26.0,ml
+288409,2103-06-30 08:00:00,1 days 20:20:55,Urine .,21.0,ml
+288409,2103-06-30 16:00:00,2 days 04:20:55,Urine .,18.0,ml
+288409,2103-06-30 20:00:00,2 days 08:20:55,Urine .,20.0,ml
+288409,2103-07-01 01:00:00,2 days 13:20:55,Urine .,12.0,ml
+288409,2103-07-01 04:30:00,2 days 16:50:55,Urine .,14.0,ml
+288409,2103-07-01 08:00:00,2 days 20:20:55,Urine .,15.0,ml
+288409,2103-07-01 16:00:00,3 days 04:20:55,Urine .,30.0,ml
+288409,2103-07-01 20:00:00,3 days 08:20:55,Urine .,16.0,ml
+288409,2103-07-02 00:00:00,3 days 12:20:55,Urine .,16.0,ml
+288409,2103-07-02 04:00:00,3 days 16:20:55,Urine .,20.0,ml
+288409,2103-07-02 08:00:00,3 days 20:20:55,Urine .,28.0,ml
+288409,2103-07-02 12:00:00,4 days 00:20:55,Urine .,16.0,ml
+288409,2103-07-02 16:00:00,4 days 04:20:55,Urine .,20.0,ml
+288409,2103-07-02 20:00:00,4 days 08:20:55,Urine .,19.0,ml
+288409,2103-07-03 00:00:00,4 days 12:20:55,Urine .,19.0,ml
+288409,2103-07-03 04:00:00,4 days 16:20:55,Urine .,19.0,ml
+288409,2103-07-03 08:00:00,4 days 20:20:55,Urine .,18.0,ml
+288409,2103-07-03 12:00:00,5 days 00:20:55,Urine .,11.0,ml
+288409,2103-07-03 16:00:00,5 days 04:20:55,Urine .,38.0,ml
+288409,2103-07-03 20:00:00,5 days 08:20:55,Urine .,15.0,ml
+288409,2103-07-04 01:00:00,5 days 13:20:55,Urine .,17.0,ml
+288409,2103-07-04 05:00:00,5 days 17:20:55,Urine .,22.0,ml
+288409,2103-07-04 09:00:00,5 days 21:20:55,Urine .,10.0,ml
+288409,2103-07-04 13:00:00,6 days 01:20:55,Urine .,23.0,ml
+288409,2103-07-04 17:00:00,6 days 05:20:55,Urine .,27.0,ml
+288409,2103-07-04 21:00:00,6 days 09:20:55,Urine .,24.0,ml
+288409,2103-07-05 09:00:00,6 days 21:20:55,Urine .,0.0,
+232669,2104-08-08 05:00:00,0 days 02:51:43,OR Out EBL,400.0,ml
+232669,2104-08-08 05:00:00,0 days 02:51:43,OR Out OR Urine,780.0,ml
+232669,2104-08-08 05:00:00,0 days 02:51:43,PACU Out PACU Urine,660.0,ml
+232669,2104-08-08 05:00:00,0 days 02:51:43,PACU Out PACU Drains,288.0,ml
+232669,2104-08-08 05:00:00,0 days 02:51:43,Drain Out #1 Jackson Pratt,,ml
+232669,2104-08-08 05:00:00,0 days 02:51:43,OR Out OR Urine,180.0,ml
+232669,2104-08-08 05:30:00,0 days 03:21:43,Drain Out #1 Jackson Pratt,100.0,ml
+232669,2104-08-08 05:30:00,0 days 03:21:43,Urine Out Foley,60.0,ml
+232669,2104-08-08 06:00:00,0 days 03:51:43,Urine Out Foley,80.0,ml
+232669,2104-08-08 06:00:00,0 days 03:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-08 06:15:00,0 days 04:06:43,Drain Out #1 Jackson Pratt,90.0,ml
+232669,2104-08-08 06:45:00,0 days 04:36:43,Drain Out #1 Jackson Pratt,80.0,ml
+232669,2104-08-08 07:00:00,0 days 04:51:43,Urine Out Foley,40.0,ml
+232669,2104-08-08 08:00:00,0 days 05:51:43,Urine Out Foley,40.0,ml
+232669,2104-08-08 08:00:00,0 days 05:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-08 09:00:00,0 days 06:51:43,Urine Out Foley,35.0,ml
+232669,2104-08-08 09:00:00,0 days 06:51:43,Drain Out #1 Jackson Pratt,90.0,ml
+232669,2104-08-08 10:00:00,0 days 07:51:43,Drain Out #1 Jackson Pratt,55.0,ml
+232669,2104-08-08 10:00:00,0 days 07:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-08 11:00:00,0 days 08:51:43,Urine Out Foley,30.0,ml
+232669,2104-08-08 12:00:00,0 days 09:51:43,Urine Out Foley,35.0,ml
+232669,2104-08-08 12:00:00,0 days 09:51:43,Drain Out #1 Jackson Pratt,80.0,ml
+232669,2104-08-08 13:00:00,0 days 10:51:43,Drain Out #1 Jackson Pratt,45.0,ml
+232669,2104-08-08 13:00:00,0 days 10:51:43,Urine Out Foley,35.0,ml
+232669,2104-08-08 14:00:00,0 days 11:51:43,Urine Out Foley,50.0,ml
+232669,2104-08-08 15:00:00,0 days 12:51:43,Drain Out #1 Jackson Pratt,20.0,ml
+232669,2104-08-08 15:00:00,0 days 12:51:43,Urine Out Foley,45.0,ml
+232669,2104-08-08 16:00:00,0 days 13:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-08 16:00:00,0 days 13:51:43,Drain Out #1 Jackson Pratt,70.0,ml
+232669,2104-08-08 17:00:00,0 days 14:51:43,Urine Out Foley,45.0,ml
+232669,2104-08-08 17:00:00,0 days 14:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-08 17:00:00,0 days 14:51:43,OR Out OR Urine,0.0,
+232669,2104-08-08 17:00:00,0 days 14:51:43,OR Out OR Urine,0.0,
+232669,2104-08-08 17:00:00,0 days 14:51:43,OR Out EBL,0.0,
+232669,2104-08-08 17:00:00,0 days 14:51:43,PACU Out PACU Drains,0.0,
+232669,2104-08-08 17:00:00,0 days 14:51:43,PACU Out PACU Urine,0.0,
+232669,2104-08-08 18:00:00,0 days 15:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-08 18:00:00,0 days 15:51:43,Drain Out #1 Jackson Pratt,25.0,ml
+232669,2104-08-08 19:00:00,0 days 16:51:43,Urine Out Foley,85.0,ml
+232669,2104-08-08 20:00:00,0 days 17:51:43,Urine Out Foley,80.0,ml
+232669,2104-08-08 21:00:00,0 days 18:51:43,Drain Out #1 Jackson Pratt,50.0,ml
+232669,2104-08-08 21:00:00,0 days 18:51:43,Urine Out Foley,65.0,ml
+232669,2104-08-08 22:00:00,0 days 19:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-08 23:00:00,0 days 20:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-09 00:00:00,0 days 21:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-09 01:00:00,0 days 22:51:43,Urine Out Foley,80.0,ml
+232669,2104-08-09 01:00:00,0 days 22:51:43,Drain Out #1 Jackson Pratt,125.0,ml
+232669,2104-08-09 02:00:00,0 days 23:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-09 03:00:00,1 days 00:51:43,Urine Out Foley,170.0,ml
+232669,2104-08-09 04:00:00,1 days 01:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-09 05:00:00,1 days 02:51:43,Gastric Nasogastric,200.0,ml
+232669,2104-08-09 05:00:00,1 days 02:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-09 05:00:00,1 days 02:51:43,Drain Out #1 Jackson Pratt,45.0,ml
+232669,2104-08-09 06:00:00,1 days 03:51:43,Urine Out Foley,280.0,ml
+232669,2104-08-09 07:00:00,1 days 04:51:43,Urine Out Foley,125.0,ml
+232669,2104-08-09 08:00:00,1 days 05:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-09 08:00:00,1 days 05:51:43,Drain Out #1 Jackson Pratt,100.0,ml
+232669,2104-08-09 09:00:00,1 days 06:51:43,Urine Out Foley,190.0,ml
+232669,2104-08-09 09:00:00,1 days 06:51:43,Drain Out #1 Jackson Pratt,80.0,ml
+232669,2104-08-09 10:00:00,1 days 07:51:43,Urine Out Foley,210.0,ml
+232669,2104-08-09 11:00:00,1 days 08:51:43,Drain Out #1 Jackson Pratt,75.0,ml
+232669,2104-08-09 11:00:00,1 days 08:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-09 12:00:00,1 days 09:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-09 13:00:00,1 days 10:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-09 14:00:00,1 days 11:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-09 14:00:00,1 days 11:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-09 15:00:00,1 days 12:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-09 15:00:00,1 days 12:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-09 16:00:00,1 days 13:51:43,Drain Out #1 Jackson Pratt,70.0,ml
+232669,2104-08-09 16:00:00,1 days 13:51:43,Urine Out Foley,250.0,ml
+232669,2104-08-09 17:00:00,1 days 14:51:43,Urine Out Foley,300.0,ml
+232669,2104-08-09 17:00:00,1 days 14:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-09 18:00:00,1 days 15:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-09 18:00:00,1 days 15:51:43,Urine Out Foley,300.0,ml
+232669,2104-08-09 19:00:00,1 days 16:51:43,Gastric Nasogastric,150.0,ml
+232669,2104-08-09 19:00:00,1 days 16:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-09 20:00:00,1 days 17:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-09 20:00:00,1 days 17:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-09 21:00:00,1 days 18:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-09 22:00:00,1 days 19:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-09 22:00:00,1 days 19:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-09 23:00:00,1 days 20:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-10 00:00:00,1 days 21:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-10 00:00:00,1 days 21:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-10 01:00:00,1 days 22:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-10 02:00:00,1 days 23:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-10 02:00:00,1 days 23:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-10 03:00:00,2 days 00:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-10 04:00:00,2 days 01:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-10 04:00:00,2 days 01:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 05:00:00,2 days 02:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-10 06:00:00,2 days 03:51:43,Gastric Nasogastric,150.0,ml
+232669,2104-08-10 06:00:00,2 days 03:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 06:00:00,2 days 03:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-10 07:00:00,2 days 04:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 08:00:00,2 days 05:51:43,Urine Out Foley,210.0,ml
+232669,2104-08-10 08:00:00,2 days 05:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-10 09:00:00,2 days 06:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 10:00:00,2 days 07:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 11:00:00,2 days 08:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-10 11:00:00,2 days 08:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-10 12:00:00,2 days 09:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 13:00:00,2 days 10:51:43,Urine Out Foley,105.0,ml
+232669,2104-08-10 14:00:00,2 days 11:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-10 15:00:00,2 days 12:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 15:00:00,2 days 12:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-10 16:00:00,2 days 13:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-10 17:00:00,2 days 14:51:43,Urine Out Foley,90.0,ml
+232669,2104-08-10 18:00:00,2 days 15:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-10 19:00:00,2 days 16:51:43,Gastric Nasogastric,200.0,ml
+232669,2104-08-10 19:00:00,2 days 16:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-10 20:00:00,2 days 17:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-10 21:00:00,2 days 18:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-10 22:00:00,2 days 19:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-10 23:00:00,2 days 20:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-10 23:00:00,2 days 20:51:43,Urine Out Foley,80.0,ml
+232669,2104-08-10 23:00:00,2 days 20:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-11 00:00:00,2 days 21:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-11 01:00:00,2 days 22:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-11 02:00:00,2 days 23:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-11 03:00:00,3 days 00:51:43,Urine Out Foley,150.0,ml
+232669,2104-08-11 04:00:00,3 days 01:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-11 05:00:00,3 days 02:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-11 06:00:00,3 days 03:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-11 06:00:00,3 days 03:51:43,Gastric Nasogastric,200.0,ml
+232669,2104-08-11 06:00:00,3 days 03:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-11 07:00:00,3 days 04:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-11 08:00:00,3 days 05:51:43,Stool Out Fecal Bag,,ml
+232669,2104-08-11 08:00:00,3 days 05:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-11 09:00:00,3 days 06:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-11 11:00:00,3 days 08:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-11 11:00:00,3 days 08:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-11 12:00:00,3 days 09:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-11 13:00:00,3 days 10:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-11 14:00:00,3 days 11:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-11 14:00:00,3 days 11:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-11 15:00:00,3 days 12:51:43,Urine Out Foley,45.0,ml
+232669,2104-08-11 16:00:00,3 days 13:51:43,Urine Out Foley,150.0,ml
+232669,2104-08-11 17:00:00,3 days 14:51:43,Urine Out Foley,60.0,ml
+232669,2104-08-11 18:00:00,3 days 15:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-11 18:00:00,3 days 15:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-11 19:00:00,3 days 16:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-11 20:00:00,3 days 17:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-11 21:00:00,3 days 18:51:43,Urine Out Foley,400.0,ml
+232669,2104-08-11 22:00:00,3 days 19:51:43,Urine Out Foley,280.0,ml
+232669,2104-08-11 23:00:00,3 days 20:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-11 23:00:00,3 days 20:51:43,Drain Out #1 Jackson Pratt,100.0,ml
+232669,2104-08-11 23:00:00,3 days 20:51:43,Gastric Nasogastric,150.0,ml
+232669,2104-08-12 00:00:00,3 days 21:51:43,Urine Out Foley,400.0,ml
+232669,2104-08-12 01:00:00,3 days 22:51:43,Urine Out Foley,400.0,ml
+232669,2104-08-12 01:00:00,3 days 22:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-12 01:00:00,3 days 22:51:43,Stool Out Fecal Bag,150.0,ml
+232669,2104-08-12 01:00:00,3 days 22:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-12 02:00:00,3 days 23:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-12 03:00:00,4 days 00:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-12 04:00:00,4 days 01:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-12 05:00:00,4 days 02:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-12 06:00:00,4 days 03:51:43,Stool Out Fecal Bag,50.0,ml
+232669,2104-08-12 06:00:00,4 days 03:51:43,Drain Out #1 Jackson Pratt,80.0,ml
+232669,2104-08-12 06:00:00,4 days 03:51:43,Gastric Nasogastric,200.0,ml
+232669,2104-08-12 06:00:00,4 days 03:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-12 07:00:00,4 days 04:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-12 07:00:00,4 days 04:51:43,Stool Out Fecal Bag,0.0,
+232669,2104-08-12 08:00:00,4 days 05:51:43,Drain Out #1 Jackson Pratt,40.0,ml
+232669,2104-08-12 08:00:00,4 days 05:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-12 09:00:00,4 days 06:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-12 09:00:00,4 days 06:51:43,Urine Out Foley,155.0,ml
+232669,2104-08-12 10:00:00,4 days 07:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-12 10:00:00,4 days 07:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-12 12:00:00,4 days 09:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-12 13:00:00,4 days 10:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-12 14:00:00,4 days 11:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-12 14:00:00,4 days 11:51:43,Urine Out Foley,75.0,ml
+232669,2104-08-12 15:00:00,4 days 12:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-12 16:00:00,4 days 13:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-12 17:00:00,4 days 14:51:43,Drain Out #1 Jackson Pratt,50.0,ml
+232669,2104-08-12 17:00:00,4 days 14:51:43,Gastric Nasogastric,200.0,ml
+232669,2104-08-12 17:00:00,4 days 14:51:43,Stool Out Ileostomy,0.0,ml
+232669,2104-08-12 17:00:00,4 days 14:51:43,Urine Out Foley,260.0,ml
+232669,2104-08-12 18:00:00,4 days 15:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-12 20:00:00,4 days 17:51:43,Urine Out Foley,400.0,ml
+232669,2104-08-12 21:00:00,4 days 18:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-12 22:00:00,4 days 19:51:43,Urine Out Foley,300.0,ml
+232669,2104-08-12 23:00:00,4 days 20:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-12 23:00:00,4 days 20:51:43,Drain Out #1 Jackson Pratt,50.0,ml
+232669,2104-08-12 23:00:00,4 days 20:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-13 00:00:00,4 days 21:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-13 01:00:00,4 days 22:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-13 02:00:00,4 days 23:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-13 03:00:00,5 days 00:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-13 04:00:00,5 days 01:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-13 05:00:00,5 days 02:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-13 05:00:00,5 days 02:51:43,Stool Out Ileostomy,0.0,ml
+232669,2104-08-13 05:00:00,5 days 02:51:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-13 05:00:00,5 days 02:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-13 05:30:00,5 days 03:21:43,Drain Out #1 Jackson Pratt,30.0,ml
+232669,2104-08-13 05:30:00,5 days 03:21:43,Urine Out Foley,240.0,ml
+232669,2104-08-13 06:00:00,5 days 03:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-13 07:00:00,5 days 04:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-13 08:00:00,5 days 05:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-13 09:00:00,5 days 06:51:43,Urine Out Foley,80.0,ml
+232669,2104-08-13 10:00:00,5 days 07:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-13 11:00:00,5 days 08:51:43,Urine Out Foley,135.0,ml
+232669,2104-08-13 12:00:00,5 days 09:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-13 14:00:00,5 days 11:51:43,Drain Out #1 Jackson Pratt,120.0,ml
+232669,2104-08-13 14:00:00,5 days 11:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-13 16:00:00,5 days 13:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-13 17:00:00,5 days 14:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-13 17:00:00,5 days 14:51:43,Gastric Nasogastric,300.0,ml
+232669,2104-08-13 17:00:00,5 days 14:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-13 19:00:00,5 days 16:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-13 20:00:00,5 days 17:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-13 21:00:00,5 days 18:51:43,Urine Out Foley,125.0,ml
+232669,2104-08-13 22:00:00,5 days 19:51:43,Drain Out #1 Jackson Pratt,75.0,ml
+232669,2104-08-13 22:00:00,5 days 19:51:43,Urine Out Foley,150.0,ml
+232669,2104-08-13 23:00:00,5 days 20:51:43,Urine Out Foley,170.0,ml
+232669,2104-08-14 00:00:00,5 days 21:51:43,Urine Out Foley,190.0,ml
+232669,2104-08-14 01:00:00,5 days 22:51:43,Urine Out Foley,190.0,ml
+232669,2104-08-14 02:00:00,5 days 23:51:43,Urine Out Foley,40.0,ml
+232669,2104-08-14 03:00:00,6 days 00:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-14 03:00:00,6 days 00:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-14 04:00:00,6 days 01:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-14 05:00:00,6 days 02:51:43,Urine Out Foley,105.0,ml
+232669,2104-08-14 06:00:00,6 days 03:51:43,Gastric Nasogastric,100.0,ml
+232669,2104-08-14 06:00:00,6 days 03:51:43,Urine Out Foley,300.0,ml
+232669,2104-08-14 06:00:00,6 days 03:51:43,Stool Out Ileostomy,,ml
+232669,2104-08-14 06:00:00,6 days 03:51:43,Drain Out #1 Jackson Pratt,45.0,ml
+232669,2104-08-14 07:30:00,6 days 05:21:43,Urine Out Foley,260.0,ml
+232669,2104-08-14 10:00:00,6 days 07:51:43,Drain Out #1 Jackson Pratt,60.0,ml
+232669,2104-08-14 10:00:00,6 days 07:51:43,Urine Out Foley,540.0,ml
+232669,2104-08-14 11:00:00,6 days 08:51:43,Urine Out Foley,160.0,ml
+232669,2104-08-14 12:00:00,6 days 09:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-14 13:00:00,6 days 10:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-14 14:00:00,6 days 11:51:43,Urine Out Foley,280.0,ml
+232669,2104-08-14 14:00:00,6 days 11:51:43,Stool Out Ileostomy,150.0,ml
+232669,2104-08-14 15:00:00,6 days 12:51:43,Urine Out Foley,220.0,ml
+232669,2104-08-14 15:00:00,6 days 12:51:43,Drain Out #1 Jackson Pratt,100.0,ml
+232669,2104-08-14 16:00:00,6 days 13:51:43,Urine Out Foley,380.0,ml
+232669,2104-08-14 17:00:00,6 days 14:51:43,Urine Out Foley,260.0,ml
+232669,2104-08-14 18:00:00,6 days 15:51:43,Drain Out #1 Jackson Pratt,20.0,ml
+232669,2104-08-14 18:00:00,6 days 15:51:43,Urine Out Foley,200.0,ml
+232669,2104-08-14 19:00:00,6 days 16:51:43,Urine Out Foley,380.0,ml
+232669,2104-08-14 20:00:00,6 days 17:51:43,Urine Out Foley,255.0,ml
+232669,2104-08-14 21:00:00,6 days 18:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-14 22:00:00,6 days 19:51:43,Urine Out Foley,245.0,ml
+232669,2104-08-14 23:00:00,6 days 20:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-15 00:00:00,6 days 21:51:43,Urine Out Foley,120.0,ml
+232669,2104-08-15 01:00:00,6 days 22:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-15 02:00:00,6 days 23:51:43,Urine Out Foley,320.0,ml
+232669,2104-08-15 03:00:00,7 days 00:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-15 04:00:00,7 days 01:51:43,Urine Out Foley,140.0,ml
+232669,2104-08-15 05:00:00,7 days 02:51:43,Urine Out Foley,205.0,ml
+232669,2104-08-15 06:00:00,7 days 03:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-15 07:00:00,7 days 04:51:43,Urine Out Foley,165.0,ml
+232669,2104-08-15 08:00:00,7 days 05:51:43,Urine Out Foley,110.0,ml
+232669,2104-08-15 09:00:00,7 days 06:51:43,Urine Out Foley,100.0,ml
+232669,2104-08-15 10:00:00,7 days 07:51:43,Urine Out Foley,50.0,ml
+232669,2104-08-15 12:00:00,7 days 09:51:43,Urine Out Foley,180.0,ml
+232669,2104-08-15 14:00:00,7 days 11:51:43,Urine Out Foley,240.0,ml
+232669,2104-08-15 14:00:00,7 days 11:51:43,Stool Out Ileostomy,100.0,ml
+232669,2104-08-15 16:00:00,7 days 13:51:43,Urine Out Foley,190.0,ml
+254478,2108-08-23 15:00:00,0 days 15:31:18,Urine Out Foley,1700.0,ml
+254478,2108-08-23 16:00:00,0 days 16:31:18,Urine Out Foley,600.0,ml
+254478,2108-08-23 18:00:00,0 days 18:31:18,Urine Out Foley,625.0,ml
+254478,2108-08-23 20:00:00,0 days 20:31:18,Urine Out Foley,190.0,ml
+254478,2108-08-23 21:00:00,0 days 21:31:18,Urine Out Foley,120.0,ml
+254478,2108-08-23 22:00:00,0 days 22:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-23 23:00:00,0 days 23:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-24 00:00:00,1 days 00:31:18,Urine Out Foley,58.0,ml
+254478,2108-08-24 01:00:00,1 days 01:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-24 02:00:00,1 days 02:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-24 04:00:00,1 days 04:31:18,Urine Out Foley,110.0,ml
+254478,2108-08-24 05:00:00,1 days 05:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-24 06:00:00,1 days 06:31:18,Urine Out Foley,70.0,ml
+254478,2108-08-24 07:00:00,1 days 07:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-24 08:00:00,1 days 08:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-24 09:00:00,1 days 09:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-24 10:00:00,1 days 10:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-24 11:00:00,1 days 11:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-24 16:00:00,1 days 16:31:18,Urine Out Foley,350.0,ml
+254478,2108-08-24 17:00:00,1 days 17:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-24 18:00:00,1 days 18:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-24 20:00:00,1 days 20:31:18,Urine Out Foley,140.0,ml
+254478,2108-08-24 21:00:00,1 days 21:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-24 22:00:00,1 days 22:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-24 23:00:00,1 days 23:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-25 00:00:00,2 days 00:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-25 01:00:00,2 days 01:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-25 02:00:00,2 days 02:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-25 03:00:00,2 days 03:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-25 04:00:00,2 days 04:31:18,Urine Out Foley,38.0,ml
+254478,2108-08-25 05:00:00,2 days 05:31:18,Urine Out Foley,80.0,ml
+254478,2108-08-25 06:00:00,2 days 06:31:18,Urine Out Foley,230.0,ml
+254478,2108-08-25 08:00:00,2 days 08:31:18,Urine Out Foley,280.0,ml
+254478,2108-08-25 09:00:00,2 days 09:31:18,Urine Out Foley,200.0,ml
+254478,2108-08-25 10:00:00,2 days 10:31:18,Urine Out Foley,120.0,ml
+254478,2108-08-25 11:00:00,2 days 11:31:18,Urine Out Foley,180.0,ml
+254478,2108-08-25 12:00:00,2 days 12:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-25 13:00:00,2 days 13:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-25 14:00:00,2 days 14:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-25 15:00:00,2 days 15:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-25 16:00:00,2 days 16:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-25 17:00:00,2 days 17:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-25 18:00:00,2 days 18:31:18,Urine Out Foley,80.0,ml
+254478,2108-08-25 20:00:00,2 days 20:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-25 22:00:00,2 days 22:31:18,Urine Out Foley,95.0,ml
+254478,2108-08-26 00:00:00,3 days 00:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-26 02:00:00,3 days 02:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-26 04:00:00,3 days 04:31:18,Urine Out Foley,90.0,ml
+254478,2108-08-26 06:00:00,3 days 06:31:18,Urine Out Foley,90.0,ml
+254478,2108-08-26 08:00:00,3 days 08:31:18,Urine Out Foley,80.0,ml
+254478,2108-08-26 09:00:00,3 days 09:31:18,Urine Out Foley,80.0,ml
+254478,2108-08-26 10:00:00,3 days 10:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-26 11:00:00,3 days 11:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-26 12:00:00,3 days 12:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-26 13:00:00,3 days 13:31:18,Urine Out Foley,22.0,ml
+254478,2108-08-26 14:00:00,3 days 14:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-26 15:00:00,3 days 15:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-26 16:00:00,3 days 16:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-26 17:00:00,3 days 17:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-26 18:00:00,3 days 18:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-26 20:00:00,3 days 20:31:18,Urine Out Foley,55.0,ml
+254478,2108-08-26 22:00:00,3 days 22:31:18,Urine Out Foley,65.0,ml
+254478,2108-08-27 00:00:00,4 days 00:31:18,Urine Out Foley,450.0,ml
+254478,2108-08-27 02:00:00,4 days 02:31:18,Urine Out Foley,140.0,ml
+254478,2108-08-27 04:00:00,4 days 04:31:18,Urine Out Foley,110.0,ml
+254478,2108-08-27 06:00:00,4 days 06:31:18,Urine Out Foley,105.0,ml
+254478,2108-08-27 08:00:00,4 days 08:31:18,Urine Out Foley,220.0,ml
+254478,2108-08-27 10:00:00,4 days 10:31:18,Urine Out Foley,100.0,ml
+254478,2108-08-27 12:00:00,4 days 12:31:18,Urine Out Foley,55.0,ml
+254478,2108-08-27 14:00:00,4 days 14:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-27 15:00:00,4 days 15:31:18,Urine Out Foley,35.0,ml
+254478,2108-08-27 16:00:00,4 days 16:31:18,Urine Out Foley,,ml
+254478,2108-08-27 17:30:00,4 days 18:01:18,Urine Out Foley,280.0,ml
+254478,2108-08-27 18:15:00,4 days 18:46:18,Urine Out Foley,100.0,ml
+254478,2108-08-27 20:00:00,4 days 20:31:18,Urine Out Foley,150.0,ml
+254478,2108-08-27 21:00:00,4 days 21:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-27 22:00:00,4 days 22:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-27 23:00:00,4 days 23:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-28 00:00:00,5 days 00:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-28 01:00:00,5 days 01:31:18,Urine Out Foley,130.0,ml
+254478,2108-08-28 02:00:00,5 days 02:31:18,Urine Out Foley,270.0,ml
+254478,2108-08-28 03:00:00,5 days 03:31:18,Urine Out Foley,400.0,ml
+254478,2108-08-28 04:00:00,5 days 04:31:18,Urine Out Foley,100.0,ml
+254478,2108-08-28 05:00:00,5 days 05:31:18,Urine Out Foley,350.0,ml
+254478,2108-08-28 06:00:00,5 days 06:31:18,Urine Out Foley,190.0,ml
+254478,2108-08-28 08:00:00,5 days 08:31:18,Urine Out Foley,400.0,ml
+254478,2108-08-28 09:00:00,5 days 09:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-28 10:00:00,5 days 10:31:18,Urine Out Foley,120.0,ml
+254478,2108-08-28 11:00:00,5 days 11:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-28 12:00:00,5 days 12:31:18,Urine Out Foley,20.0,ml
+254478,2108-08-28 14:00:00,5 days 14:31:18,Urine Out Foley,100.0,ml
+254478,2108-08-28 15:00:00,5 days 15:31:18,Urine Out Foley,55.0,ml
+254478,2108-08-28 16:00:00,5 days 16:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-28 17:00:00,5 days 17:31:18,Urine Out Foley,20.0,ml
+254478,2108-08-28 18:00:00,5 days 18:31:18,Urine Out Foley,480.0,ml
+254478,2108-08-28 19:00:00,5 days 19:31:18,Urine Out Foley,250.0,ml
+254478,2108-08-28 20:00:00,5 days 20:31:18,Urine Out Foley,180.0,ml
+254478,2108-08-28 21:00:00,5 days 21:31:18,Urine Out Foley,110.0,ml
+254478,2108-08-29 02:00:00,6 days 02:31:18,Urine Out Foley,220.0,ml
+254478,2108-08-29 03:00:00,6 days 03:31:18,Urine Out Foley,80.0,ml
+254478,2108-08-29 06:30:00,6 days 07:01:18,Urine Out Foley,120.0,ml
+254478,2108-08-29 08:00:00,6 days 08:31:18,Urine Out Foley,90.0,ml
+254478,2108-08-29 09:00:00,6 days 09:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-29 10:00:00,6 days 10:31:18,Urine Out Foley,25.0,ml
+254478,2108-08-29 11:00:00,6 days 11:31:18,Urine Out Foley,24.0,ml
+254478,2108-08-29 12:00:00,6 days 12:31:18,Urine Out Foley,20.0,ml
+254478,2108-08-29 13:00:00,6 days 13:31:18,Urine Out Foley,11.0,ml
+254478,2108-08-29 14:00:00,6 days 14:31:18,Urine Out Foley,0.0,ml
+254478,2108-08-29 15:00:00,6 days 15:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-29 16:00:00,6 days 16:31:18,Urine Out Foley,120.0,ml
+254478,2108-08-29 17:00:00,6 days 17:31:18,Urine Out Foley,30.0,ml
+254478,2108-08-29 18:00:00,6 days 18:31:18,Urine Out Foley,120.0,ml
+254478,2108-08-29 19:00:00,6 days 19:31:18,Gastric Oral Gastric,500.0,ml
+254478,2108-08-29 19:00:00,6 days 19:31:18,Urine Out Foley,60.0,ml
+254478,2108-08-29 20:00:00,6 days 20:31:18,Urine Out Foley,100.0,ml
+254478,2108-08-29 21:00:00,6 days 21:31:18,Urine Out Foley,15.0,ml
+254478,2108-08-29 22:00:00,6 days 22:31:18,Urine Out Foley,17.0,ml
+254478,2108-08-29 22:30:00,6 days 23:01:18,Urine Out Foley,,ml
+254478,2108-08-30 00:00:00,7 days 00:31:18,Urine Out Foley,140.0,ml
+254478,2108-08-30 02:00:00,7 days 02:31:18,Urine Out Foley,50.0,ml
+254478,2108-08-30 04:00:00,7 days 04:31:18,Urine Out Foley,40.0,ml
+254478,2108-08-30 06:00:00,7 days 06:31:18,Gastric Oral Gastric,250.0,ml
+254478,2108-08-30 06:00:00,7 days 06:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-30 08:00:00,7 days 08:31:18,Urine Out Foley,18.0,ml
+254478,2108-08-30 09:00:00,7 days 09:31:18,Urine Out Foley,45.0,ml
+254478,2108-08-30 10:00:00,7 days 10:31:18,Urine Out Foley,12.0,ml
+254478,2108-08-30 11:00:00,7 days 11:31:18,Urine Out Foley,5.0,ml
+254478,2108-08-30 12:00:00,7 days 12:31:18,Urine Out Foley,10.0,ml
+254478,2108-08-30 13:00:00,7 days 13:31:18,Urine Out Foley,12.0,ml
+254478,2108-08-30 14:00:00,7 days 14:31:18,Urine Out Foley,5.0,ml
+254478,2108-08-30 15:00:00,7 days 15:31:18,Urine Out Foley,0.0,ml
+293325,2120-10-29 10:45:00,0 days 00:12:10,Foley,50.0,mL
+293325,2120-10-29 11:30:00,0 days 00:57:10,Foley,100.0,mL
+293325,2120-10-29 12:00:00,0 days 01:27:10,Foley,35.0,mL
+293325,2120-10-29 13:00:00,0 days 02:27:10,Foley,50.0,mL
+293325,2120-10-29 14:00:00,0 days 03:27:10,Foley,40.0,mL
+293325,2120-10-29 15:00:00,0 days 04:27:10,Foley,50.0,mL
+293325,2120-10-29 16:00:00,0 days 05:27:10,Foley,60.0,mL
+293325,2120-10-29 17:00:00,0 days 06:27:10,Foley,50.0,mL
+293325,2120-10-29 18:00:00,0 days 07:27:10,Foley,40.0,mL
+293325,2120-10-29 19:00:00,0 days 08:27:10,Foley,40.0,mL
+293325,2120-10-29 20:00:00,0 days 09:27:10,Foley,40.0,mL
+293325,2120-10-29 23:00:00,0 days 12:27:10,Foley,380.0,mL
+293325,2120-10-30 01:00:00,0 days 14:27:10,Foley,200.0,mL
+293325,2120-10-30 03:00:00,0 days 16:27:10,Foley,80.0,mL
+293325,2120-10-30 05:00:00,0 days 18:27:10,Foley,160.0,mL
+293325,2120-10-30 08:00:00,0 days 21:27:10,Foley,250.0,mL
+293325,2120-10-30 10:00:00,0 days 23:27:10,Foley,60.0,mL
+293325,2120-10-30 12:00:00,1 days 01:27:10,Foley,90.0,mL
+293325,2120-10-30 14:00:00,1 days 03:27:10,Foley,90.0,mL
+293325,2120-10-30 17:00:00,1 days 06:27:10,Foley,175.0,mL
+293325,2120-10-30 18:00:00,1 days 07:27:10,Foley,45.0,mL
+293325,2120-10-30 19:00:00,1 days 08:27:10,Foley,20.0,mL
+293325,2120-10-30 21:00:00,1 days 10:27:10,Foley,80.0,mL
+293325,2120-10-30 23:00:00,1 days 12:27:10,Foley,100.0,mL
+293325,2120-10-31 02:00:00,1 days 15:27:10,Foley,120.0,mL
+293325,2120-10-31 04:00:00,1 days 17:27:10,Foley,100.0,mL
+293325,2120-10-31 08:00:00,1 days 21:27:10,Foley,100.0,mL
+293325,2120-10-31 11:00:00,2 days 00:27:10,Foley,140.0,mL
+293325,2120-10-31 15:00:00,2 days 04:27:10,Foley,120.0,mL
+244882,2126-05-07 15:00:00,0 days 05:07:30,Urine Out Void,275.0,ml
+244882,2126-05-07 21:00:00,0 days 11:07:30,Urine Out Void,300.0,ml
+244882,2126-05-08 03:00:00,0 days 17:07:30,Stool Out Stool,,ml
+244882,2126-05-08 03:00:00,0 days 17:07:30,Urine Out Void,300.0,ml
+244882,2126-05-08 16:00:00,1 days 06:07:30,Urine Out Void,550.0,ml
+244882,2126-05-08 16:00:00,1 days 06:07:30,Stool Out Stool,,ml
+244882,2126-05-08 18:00:00,1 days 08:07:30,Urine Out Void,650.0,ml
+244882,2126-05-08 21:00:00,1 days 11:07:30,Urine Out Void,475.0,ml
+244882,2126-05-08 22:00:00,1 days 12:07:30,Urine Out Void,400.0,ml
+244882,2126-05-08 23:00:00,1 days 13:07:30,Urine Out Void,150.0,ml
+244882,2126-05-09 00:00:00,1 days 14:07:30,Stool Out Stool,,ml
+244882,2126-05-09 00:00:00,1 days 14:07:30,Urine Out Void,475.0,ml
+244882,2126-05-09 05:00:00,1 days 19:07:30,Urine Out Void,400.0,ml
+244882,2126-05-09 10:00:00,2 days 00:07:30,Urine Out Void,550.0,ml
+244882,2126-05-09 12:00:00,2 days 02:07:30,Urine Out Void,550.0,ml
+217847,2134-09-11 22:30:00,0 days 01:39:56,Urine Out Foley,300.0,ml
+217847,2134-09-11 22:30:00,0 days 01:39:56,Pre-Admission Output Pre-Admission Output,260.0,ml
+217847,2134-09-12 00:00:00,0 days 03:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-12 01:00:00,0 days 04:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-12 02:00:00,0 days 05:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-12 03:00:00,0 days 06:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 04:00:00,0 days 07:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 05:00:00,0 days 08:09:56,Urine Out Foley,6.0,ml
+217847,2134-09-12 06:00:00,0 days 09:09:56,Urine Out Foley,8.0,ml
+217847,2134-09-12 08:00:00,0 days 11:09:56,Urine Out Foley,7.0,ml
+217847,2134-09-12 11:00:00,0 days 14:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 16:00:00,0 days 19:09:56,Ultrafiltrate Ultrafiltrate,104.0,ml
+217847,2134-09-12 16:00:00,0 days 19:09:56,Urine Out Foley,4.0,ml
+217847,2134-09-12 17:00:00,0 days 20:09:56,Urine Out Foley,6.0,ml
+217847,2134-09-12 17:00:00,0 days 20:09:56,Ultrafiltrate Ultrafiltrate,123.0,ml
+217847,2134-09-12 18:00:00,0 days 21:09:56,Ultrafiltrate Ultrafiltrate,209.0,ml
+217847,2134-09-12 18:00:00,0 days 21:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 19:00:00,0 days 22:09:56,Ultrafiltrate Ultrafiltrate,255.0,ml
+217847,2134-09-12 19:00:00,0 days 22:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 20:00:00,0 days 23:09:56,Ultrafiltrate Ultrafiltrate,211.0,ml
+217847,2134-09-12 20:00:00,0 days 23:09:56,Urine Out Foley,5.0,ml
+217847,2134-09-12 21:00:00,1 days 00:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 21:00:00,1 days 00:09:56,Ultrafiltrate Ultrafiltrate,198.0,ml
+217847,2134-09-12 22:00:00,1 days 01:09:56,Ultrafiltrate Ultrafiltrate,182.0,ml
+217847,2134-09-12 22:00:00,1 days 01:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-12 23:00:00,1 days 02:09:56,Urine Out Foley,6.0,ml
+217847,2134-09-12 23:00:00,1 days 02:09:56,Ultrafiltrate Ultrafiltrate,205.0,ml
+217847,2134-09-13 00:00:00,1 days 03:09:56,Gastric Nasogastric,100.0,ml
+217847,2134-09-13 00:00:00,1 days 03:09:56,Ultrafiltrate Ultrafiltrate,145.0,ml
+217847,2134-09-13 00:00:00,1 days 03:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 01:00:00,1 days 04:09:56,Urine Out Foley,8.0,ml
+217847,2134-09-13 01:00:00,1 days 04:09:56,Ultrafiltrate Ultrafiltrate,145.0,ml
+217847,2134-09-13 02:00:00,1 days 05:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 02:00:00,1 days 05:09:56,Ultrafiltrate Ultrafiltrate,136.0,ml
+217847,2134-09-13 03:00:00,1 days 06:09:56,Urine Out Foley,12.0,ml
+217847,2134-09-13 03:00:00,1 days 06:09:56,Ultrafiltrate Ultrafiltrate,96.0,ml
+217847,2134-09-13 04:00:00,1 days 07:09:56,Ultrafiltrate Ultrafiltrate,87.0,ml
+217847,2134-09-13 04:00:00,1 days 07:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 05:00:00,1 days 08:09:56,Ultrafiltrate Ultrafiltrate,77.0,ml
+217847,2134-09-13 05:00:00,1 days 08:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 06:00:00,1 days 09:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 06:00:00,1 days 09:09:56,Ultrafiltrate Ultrafiltrate,81.0,ml
+217847,2134-09-13 07:00:00,1 days 10:09:56,Ultrafiltrate Ultrafiltrate,66.0,ml
+217847,2134-09-13 07:00:00,1 days 10:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 08:00:00,1 days 11:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 08:00:00,1 days 11:09:56,Ultrafiltrate Ultrafiltrate,80.0,ml
+217847,2134-09-13 09:00:00,1 days 12:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-13 09:00:00,1 days 12:09:56,Ultrafiltrate Ultrafiltrate,78.0,ml
+217847,2134-09-13 10:00:00,1 days 13:09:56,Ultrafiltrate Ultrafiltrate,94.0,ml
+217847,2134-09-13 10:00:00,1 days 13:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 11:00:00,1 days 14:09:56,Urine Out Foley,12.0,ml
+217847,2134-09-13 11:00:00,1 days 14:09:56,Ultrafiltrate Ultrafiltrate,94.0,ml
+217847,2134-09-13 12:00:00,1 days 15:09:56,Ultrafiltrate Ultrafiltrate,72.0,ml
+217847,2134-09-13 12:00:00,1 days 15:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 13:00:00,1 days 16:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 13:00:00,1 days 16:09:56,Ultrafiltrate Ultrafiltrate,85.0,ml
+217847,2134-09-13 14:00:00,1 days 17:09:56,Ultrafiltrate Ultrafiltrate,110.0,ml
+217847,2134-09-13 14:00:00,1 days 17:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 15:00:00,1 days 18:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 15:00:00,1 days 18:09:56,Ultrafiltrate Ultrafiltrate,96.0,ml
+217847,2134-09-13 16:00:00,1 days 19:09:56,Ultrafiltrate Ultrafiltrate,77.0,ml
+217847,2134-09-13 16:00:00,1 days 19:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 17:00:00,1 days 20:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 17:00:00,1 days 20:09:56,Ultrafiltrate Ultrafiltrate,105.0,ml
+217847,2134-09-13 18:00:00,1 days 21:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 18:00:00,1 days 21:09:56,Ultrafiltrate Ultrafiltrate,56.0,ml
+217847,2134-09-13 19:00:00,1 days 22:09:56,Ultrafiltrate Ultrafiltrate,67.0,ml
+217847,2134-09-13 20:00:00,1 days 23:09:56,Ultrafiltrate Ultrafiltrate,87.0,ml
+217847,2134-09-13 20:00:00,1 days 23:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-13 21:00:00,2 days 00:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 21:00:00,2 days 00:09:56,Ultrafiltrate Ultrafiltrate,74.0,ml
+217847,2134-09-13 22:00:00,2 days 01:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-13 22:00:00,2 days 01:09:56,Ultrafiltrate Ultrafiltrate,48.0,ml
+217847,2134-09-13 23:00:00,2 days 02:09:56,Ultrafiltrate Ultrafiltrate,78.0,ml
+217847,2134-09-13 23:00:00,2 days 02:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 00:00:00,2 days 03:09:56,Ultrafiltrate Ultrafiltrate,78.0,ml
+217847,2134-09-14 00:00:00,2 days 03:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 01:00:00,2 days 04:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 01:00:00,2 days 04:09:56,Ultrafiltrate Ultrafiltrate,69.0,ml
+217847,2134-09-14 02:00:00,2 days 05:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 02:00:00,2 days 05:09:56,Ultrafiltrate Ultrafiltrate,80.0,ml
+217847,2134-09-14 03:00:00,2 days 06:09:56,Ultrafiltrate Ultrafiltrate,86.0,ml
+217847,2134-09-14 03:00:00,2 days 06:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 04:00:00,2 days 07:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 04:00:00,2 days 07:09:56,Ultrafiltrate Ultrafiltrate,76.0,ml
+217847,2134-09-14 05:00:00,2 days 08:09:56,Ultrafiltrate Ultrafiltrate,52.0,ml
+217847,2134-09-14 05:00:00,2 days 08:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 06:00:00,2 days 09:09:56,Ultrafiltrate Ultrafiltrate,81.0,ml
+217847,2134-09-14 06:00:00,2 days 09:09:56,Urine Out Foley,6.0,ml
+217847,2134-09-14 07:00:00,2 days 10:09:56,Ultrafiltrate Ultrafiltrate,63.0,ml
+217847,2134-09-14 07:00:00,2 days 10:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 08:00:00,2 days 11:09:56,Ultrafiltrate Ultrafiltrate,60.0,ml
+217847,2134-09-14 08:00:00,2 days 11:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 09:00:00,2 days 12:09:56,Ultrafiltrate Ultrafiltrate,118.0,ml
+217847,2134-09-14 09:00:00,2 days 12:09:56,Urine Out Foley,30.0,ml
+217847,2134-09-14 10:00:00,2 days 13:09:56,Ultrafiltrate Ultrafiltrate,94.0,ml
+217847,2134-09-14 10:00:00,2 days 13:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 11:00:00,2 days 14:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 11:00:00,2 days 14:09:56,Ultrafiltrate Ultrafiltrate,110.0,ml
+217847,2134-09-14 12:00:00,2 days 15:09:56,Ultrafiltrate Ultrafiltrate,120.0,ml
+217847,2134-09-14 12:00:00,2 days 15:09:56,Urine Out Foley,12.0,ml
+217847,2134-09-14 13:00:00,2 days 16:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 13:00:00,2 days 16:09:56,Ultrafiltrate Ultrafiltrate,88.0,ml
+217847,2134-09-14 14:00:00,2 days 17:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 14:00:00,2 days 17:09:56,Ultrafiltrate Ultrafiltrate,67.0,ml
+217847,2134-09-14 15:00:00,2 days 18:09:56,Ultrafiltrate Ultrafiltrate,69.0,ml
+217847,2134-09-14 15:00:00,2 days 18:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-14 16:00:00,2 days 19:09:56,Ultrafiltrate Ultrafiltrate,70.0,ml
+217847,2134-09-14 17:00:00,2 days 20:09:56,Ultrafiltrate Ultrafiltrate,35.0,ml
+217847,2134-09-14 18:00:00,2 days 21:09:56,Pre-Admission Output Pre-Admission Output,0.0,
+217847,2134-09-14 18:00:00,2 days 21:09:56,Gastric Nasogastric,0.0,
+217847,2134-09-14 20:00:00,2 days 23:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-15 00:00:00,3 days 03:09:56,Urine Out Foley,30.0,ml
+217847,2134-09-15 05:00:00,3 days 08:09:56,Urine Out Foley,20.0,ml
+217847,2134-09-15 08:00:00,3 days 11:09:56,Urine Out Foley,80.0,ml
+217847,2134-09-15 10:00:00,3 days 13:09:56,Urine Out Foley,20.0,ml
+217847,2134-09-15 12:00:00,3 days 15:09:56,Urine Out Foley,30.0,ml
+217847,2134-09-15 14:00:00,3 days 17:09:56,Urine Out Foley,20.0,ml
+217847,2134-09-15 16:00:00,3 days 19:09:56,Urine Out Foley,25.0,ml
+217847,2134-09-15 17:00:00,3 days 20:09:56,Urine Out Foley,25.0,ml
+217847,2134-09-15 19:00:00,3 days 22:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-15 20:00:00,3 days 23:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-15 22:00:00,4 days 01:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-15 23:00:00,4 days 02:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-16 00:00:00,4 days 03:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-16 02:00:00,4 days 05:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-16 04:00:00,4 days 07:09:56,Urine Out Foley,50.0,ml
+217847,2134-09-16 06:00:00,4 days 09:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-16 09:00:00,4 days 12:09:56,Urine Out Foley,26.0,ml
+217847,2134-09-16 14:00:00,4 days 17:09:56,Urine Out Foley,35.0,ml
+217847,2134-09-16 18:00:00,4 days 21:09:56,Urine Out Foley,30.0,ml
+217847,2134-09-16 22:00:00,5 days 01:09:56,Urine Out Foley,30.0,ml
+217847,2134-09-17 00:00:00,5 days 03:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-17 04:00:00,5 days 07:09:56,Urine Out Foley,10.0,ml
+217847,2134-09-17 05:00:00,5 days 08:09:56,Urine Out Foley,20.0,ml
+217847,2134-09-17 08:00:00,5 days 11:09:56,Urine Out Foley,0.0,ml
+217847,2134-09-17 13:00:00,5 days 16:09:56,Urine Out Foley,50.0,ml
+277042,2134-12-27 19:15:00,0 days 02:53:12,OR Out PACU Urine,250.0,ml
+277042,2134-12-27 19:15:00,0 days 02:53:12,Chest Tubes CTICU CT 1,35.0,ml
+277042,2134-12-27 21:00:00,0 days 04:38:12,Urine Out Foley,100.0,ml
+277042,2134-12-27 21:00:00,0 days 04:38:12,Chest Tubes CTICU CT 1,5.0,ml
+277042,2134-12-27 22:00:00,0 days 05:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-27 22:00:00,0 days 05:38:12,Urine Out Foley,60.0,ml
+277042,2134-12-27 23:00:00,0 days 06:38:12,Urine Out Foley,60.0,ml
+277042,2134-12-28 00:00:00,0 days 07:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 00:00:00,0 days 07:38:12,Urine Out Foley,150.0,ml
+277042,2134-12-28 01:00:00,0 days 08:38:12,Urine Out Foley,45.0,ml
+277042,2134-12-28 01:00:00,0 days 08:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 02:00:00,0 days 09:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 02:00:00,0 days 09:38:12,Urine Out Foley,30.0,ml
+277042,2134-12-28 03:00:00,0 days 10:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 03:00:00,0 days 10:38:12,Urine Out Foley,40.0,ml
+277042,2134-12-28 04:00:00,0 days 11:38:12,Urine Out Foley,60.0,ml
+277042,2134-12-28 05:00:00,0 days 12:38:12,Urine Out Foley,50.0,ml
+277042,2134-12-28 06:00:00,0 days 13:38:12,Urine Out Foley,70.0,ml
+277042,2134-12-28 07:00:00,0 days 14:38:12,Urine Out Foley,40.0,ml
+277042,2134-12-28 07:00:00,0 days 14:38:12,Chest Tubes CTICU CT 1,10.0,ml
+277042,2134-12-28 08:00:00,0 days 15:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 08:00:00,0 days 15:38:12,Urine Out Foley,50.0,ml
+277042,2134-12-28 09:00:00,0 days 16:38:12,Urine Out Foley,60.0,ml
+277042,2134-12-28 10:00:00,0 days 17:38:12,Urine Out Foley,5.0,ml
+277042,2134-12-28 10:00:00,0 days 17:38:12,Chest Tubes CTICU CT 1,15.0,ml
+277042,2134-12-28 11:00:00,0 days 18:38:12,Chest Tubes CTICU CT 1,25.0,ml
+277042,2134-12-28 11:00:00,0 days 18:38:12,Urine Out Foley,35.0,ml
+277042,2134-12-28 12:00:00,0 days 19:38:12,Chest Tubes CTICU CT 1,16.0,ml
+277042,2134-12-28 12:00:00,0 days 19:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-28 13:00:00,0 days 20:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 13:00:00,0 days 20:38:12,Urine Out Foley,40.0,ml
+277042,2134-12-28 14:00:00,0 days 21:38:12,Urine Out Foley,45.0,ml
+277042,2134-12-28 14:00:00,0 days 21:38:12,Chest Tubes CTICU CT 1,20.0,ml
+277042,2134-12-28 15:00:00,0 days 22:38:12,Chest Tubes CTICU CT 1,14.0,ml
+277042,2134-12-28 15:00:00,0 days 22:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-28 16:00:00,0 days 23:38:12,Urine Out Foley,10.0,ml
+277042,2134-12-28 17:00:00,1 days 00:38:12,Urine Out Foley,50.0,ml
+277042,2134-12-28 17:00:00,1 days 00:38:12,Chest Tubes CTICU CT 1,20.0,ml
+277042,2134-12-28 18:00:00,1 days 01:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-28 18:00:00,1 days 01:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 19:00:00,1 days 02:38:12,Urine Out Foley,50.0,ml
+277042,2134-12-28 20:00:00,1 days 03:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 20:00:00,1 days 03:38:12,Urine Out Foley,30.0,ml
+277042,2134-12-28 21:00:00,1 days 04:38:12,Urine Out Foley,30.0,ml
+277042,2134-12-28 21:00:00,1 days 04:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-28 22:00:00,1 days 05:38:12,Urine Out Foley,35.0,ml
+277042,2134-12-28 23:00:00,1 days 06:38:12,Urine Out Foley,25.0,ml
+277042,2134-12-29 00:00:00,1 days 07:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-29 00:00:00,1 days 07:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-29 01:00:00,1 days 08:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-29 02:00:00,1 days 09:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-29 02:00:00,1 days 09:38:12,Urine Out Foley,20.0,ml
+277042,2134-12-29 03:00:00,1 days 10:38:12,Urine Out Foley,40.0,ml
+277042,2134-12-29 04:00:00,1 days 11:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-29 04:00:00,1 days 11:38:12,Urine Out Foley,40.0,ml
+277042,2134-12-29 05:00:00,1 days 12:38:12,Urine Out Foley,25.0,ml
+277042,2134-12-29 06:00:00,1 days 13:38:12,Urine Out Foley,30.0,ml
+277042,2134-12-29 07:00:00,1 days 14:38:12,Chest Tubes CTICU CT 1,0.0,ml
+277042,2134-12-29 08:00:00,1 days 15:38:12,Chest Tubes CTICU CT 1,25.0,ml
+277042,2134-12-29 08:00:00,1 days 15:38:12,OR Out PACU Urine,0.0,
+277042,2134-12-29 10:00:00,1 days 17:38:12,Chest Tubes CTICU CT 1,40.0,ml
+277042,2134-12-29 13:00:00,1 days 20:38:12,Chest Tubes CTICU CT 1,0.0,
+277042,2134-12-29 16:00:00,1 days 23:38:12,Stool Out Stool,,ml
+277042,2134-12-29 16:00:00,1 days 23:38:12,Urine Out Void,,ml
+216859,2135-01-31 04:00:00,0 days 07:06:26,Urine Out Foley,175.0,ml
+216859,2135-01-31 05:00:00,0 days 08:06:26,Urine Out Foley,45.0,ml
+216859,2135-01-31 06:00:00,0 days 09:06:26,Urine Out Foley,25.0,ml
+216859,2135-01-31 08:00:00,0 days 11:06:26,Urine Out Foley,7.0,ml
+216859,2135-01-31 09:00:00,0 days 12:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 10:00:00,0 days 13:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 12:00:00,0 days 15:06:26,Urine Out Foley,10.0,ml
+216859,2135-01-31 13:00:00,0 days 16:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 14:00:00,0 days 17:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 15:00:00,0 days 18:06:26,Urine Out Foley,10.0,ml
+216859,2135-01-31 16:00:00,0 days 19:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 17:00:00,0 days 20:06:26,Urine Out Foley,18.0,ml
+216859,2135-01-31 18:00:00,0 days 21:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 19:00:00,0 days 22:06:26,Urine Out Foley,0.0,ml
+216859,2135-01-31 23:00:00,1 days 02:06:26,Urine Out Foley,40.0,ml
+216859,2135-02-01 03:00:00,1 days 06:06:26,Urine Out Foley,20.0,ml
+216859,2135-02-01 06:00:00,1 days 09:06:26,Urine Out Foley,20.0,ml
+216859,2135-02-01 08:00:00,1 days 11:06:26,Urine Out Foley,35.0,ml
+216859,2135-02-01 18:00:00,1 days 21:06:26,Urine Out Foley,35.0,ml
+216859,2135-02-01 19:00:00,1 days 22:06:26,Urine Out Foley,10.0,ml
+216859,2135-02-01 21:00:00,2 days 00:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-01 22:00:00,2 days 01:06:26,Urine Out Foley,9.0,ml
+216859,2135-02-01 23:00:00,2 days 02:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 00:00:00,2 days 03:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 01:00:00,2 days 04:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 02:00:00,2 days 05:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 03:00:00,2 days 06:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 04:00:00,2 days 07:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 05:00:00,2 days 08:06:26,Urine Out Foley,5.0,ml
+216859,2135-02-02 06:00:00,2 days 09:06:26,Urine Out Foley,3.0,ml
+216859,2135-02-02 08:00:00,2 days 11:06:26,Urine Out Foley,22.0,ml
+216859,2135-02-02 09:00:00,2 days 12:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 10:00:00,2 days 13:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 13:00:00,2 days 16:06:26,Urine Out Foley,10.0,ml
+216859,2135-02-02 14:00:00,2 days 17:06:26,Urine Out Foley,8.0,ml
+216859,2135-02-02 15:00:00,2 days 18:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 16:00:00,2 days 19:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 17:00:00,2 days 20:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 18:00:00,2 days 21:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 19:00:00,2 days 22:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 20:00:00,2 days 23:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 21:00:00,3 days 00:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 22:00:00,3 days 01:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-02 23:00:00,3 days 02:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 00:00:00,3 days 03:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 01:00:00,3 days 04:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 02:00:00,3 days 05:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 03:00:00,3 days 06:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 04:00:00,3 days 07:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 05:00:00,3 days 08:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 06:00:00,3 days 09:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-03 08:00:00,3 days 11:06:26,Urine Out Foley,5.0,ml
+216859,2135-02-03 18:00:00,3 days 21:06:26,Urine Out Foley,35.0,ml
+216859,2135-02-04 06:00:00,4 days 09:06:26,Urine Out Foley,5.0,ml
+216859,2135-02-04 11:00:00,4 days 14:06:26,Urine Out Foley,10.0,ml
+216859,2135-02-04 18:00:00,4 days 21:06:26,Urine Out Foley,10.0,ml
+216859,2135-02-05 06:00:00,5 days 09:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-05 10:00:00,5 days 13:06:26,Urine Out Foley,20.0,ml
+216859,2135-02-05 12:00:00,5 days 15:06:26,Urine Out Foley,6.0,ml
+216859,2135-02-05 12:30:00,5 days 15:36:26,Urine Out Foley,18.0,ml
+216859,2135-02-05 16:00:00,5 days 19:06:26,Stool Out Stool,,ml
+216859,2135-02-05 18:00:00,5 days 21:06:26,Urine Out Foley,30.0,ml
+216859,2135-02-05 23:00:00,6 days 02:06:26,Ultrafiltrate Ultrafiltrate,4.0,ml
+216859,2135-02-06 00:00:00,6 days 03:06:26,Stool Out Stool,,ml
+216859,2135-02-06 06:00:00,6 days 09:06:26,Urine Out Foley,20.0,ml
+216859,2135-02-06 15:00:00,6 days 18:06:26,Stool Out Stool,,ml
+216859,2135-02-06 18:00:00,6 days 21:06:26,Urine Out Foley,60.0,ml
+216859,2135-02-07 06:00:00,7 days 09:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-07 08:00:00,7 days 11:06:26,Urine Out Foley,0.0,ml
+216859,2135-02-07 08:00:00,7 days 11:06:26,Ultrafiltrate Ultrafiltrate,0.0,
+216859,2135-02-07 16:00:00,7 days 19:06:26,Urine Out Foley,5.0,ml
+216859,2135-02-07 19:00:00,7 days 22:06:26,Urine Out Foley,5.0,ml
+216859,2135-02-07 23:00:00,8 days 02:06:26,Urine Out Foley,5.0,ml
+257980,2135-05-09 15:30:00,0 days 01:17:54,Chest Tubes CTICU CT 1,80.0,ml
+257980,2135-05-09 15:30:00,0 days 01:17:54,Chest Tubes CTICU CT 2,36.0,ml
+257980,2135-05-09 15:30:00,0 days 01:17:54,Urine Out Foley,40.0,ml
+257980,2135-05-09 15:30:00,0 days 01:17:54,OR Out OR Urine,,ml
+257980,2135-05-09 15:45:00,0 days 01:32:54,Chest Tubes CTICU CT 1,5.0,ml
+257980,2135-05-09 15:45:00,0 days 01:32:54,Chest Tubes CTICU CT 2,18.0,ml
+257980,2135-05-09 16:00:00,0 days 01:47:54,OR Out OR Urine,0.0,
+257980,2135-05-09 16:00:00,0 days 01:47:54,Chest Tubes CTICU CT 2,11.0,ml
+257980,2135-05-09 16:00:00,0 days 01:47:54,Urine Out Foley,40.0,ml
+257980,2135-05-09 16:00:00,0 days 01:47:54,Chest Tubes CTICU CT 1,21.0,ml
+257980,2135-05-09 16:15:00,0 days 02:02:54,Chest Tubes CTICU CT 2,12.0,ml
+257980,2135-05-09 16:15:00,0 days 02:02:54,Chest Tubes CTICU CT 1,30.0,ml
+257980,2135-05-09 16:30:00,0 days 02:17:54,Chest Tubes CTICU CT 1,22.0,ml
+257980,2135-05-09 16:30:00,0 days 02:17:54,Chest Tubes CTICU CT 2,5.0,ml
+257980,2135-05-09 17:00:00,0 days 02:47:54,Chest Tubes CTICU CT 1,18.0,ml
+257980,2135-05-09 17:00:00,0 days 02:47:54,Urine Out Foley,70.0,ml
+257980,2135-05-09 17:00:00,0 days 02:47:54,Chest Tubes CTICU CT 2,10.0,ml
+257980,2135-05-09 18:00:00,0 days 03:47:54,Chest Tubes CTICU CT 2,50.0,ml
+257980,2135-05-09 18:00:00,0 days 03:47:54,Urine Out Foley,280.0,ml
+257980,2135-05-09 18:00:00,0 days 03:47:54,Chest Tubes CTICU CT 1,54.0,ml
+257980,2135-05-09 18:30:00,0 days 04:17:54,Chest Tubes CTICU CT 2,6.0,ml
+257980,2135-05-09 18:30:00,0 days 04:17:54,Chest Tubes CTICU CT 1,70.0,ml
+257980,2135-05-09 19:00:00,0 days 04:47:54,Chest Tubes CTICU CT 1,30.0,ml
+257980,2135-05-09 19:00:00,0 days 04:47:54,Chest Tubes CTICU CT 2,12.0,ml
+257980,2135-05-09 19:00:00,0 days 04:47:54,Urine Out Foley,220.0,ml
+257980,2135-05-09 20:00:00,0 days 05:47:54,Chest Tubes CTICU CT 2,40.0,ml
+257980,2135-05-09 20:00:00,0 days 05:47:54,Chest Tubes CTICU CT 1,40.0,ml
+257980,2135-05-09 20:00:00,0 days 05:47:54,Urine Out Foley,160.0,ml
+257980,2135-05-09 21:00:00,0 days 06:47:54,Chest Tubes CTICU CT 1,10.0,ml
+257980,2135-05-09 21:00:00,0 days 06:47:54,Chest Tubes CTICU CT 2,10.0,ml
+257980,2135-05-09 21:00:00,0 days 06:47:54,Urine Out Foley,70.0,ml
+257980,2135-05-09 22:00:00,0 days 07:47:54,Chest Tubes CTICU CT 2,10.0,ml
+257980,2135-05-09 22:00:00,0 days 07:47:54,Urine Out Foley,120.0,ml
+257980,2135-05-09 22:00:00,0 days 07:47:54,Chest Tubes CTICU CT 1,20.0,ml
+257980,2135-05-10 00:00:00,0 days 09:47:54,Chest Tubes CTICU CT 1,90.0,ml
+257980,2135-05-10 00:00:00,0 days 09:47:54,Urine Out Foley,80.0,ml
+257980,2135-05-10 00:00:00,0 days 09:47:54,Chest Tubes CTICU CT 2,40.0,ml
+257980,2135-05-10 01:00:00,0 days 10:47:54,Urine Out Foley,50.0,ml
+257980,2135-05-10 01:00:00,0 days 10:47:54,Chest Tubes CTICU CT 1,25.0,ml
+257980,2135-05-10 01:00:00,0 days 10:47:54,Chest Tubes CTICU CT 2,70.0,ml
+257980,2135-05-10 02:00:00,0 days 11:47:54,Urine Out Foley,30.0,ml
+257980,2135-05-10 03:00:00,0 days 12:47:54,Urine Out Foley,30.0,ml
+257980,2135-05-10 04:00:00,0 days 13:47:54,Chest Tubes CTICU CT 2,50.0,ml
+257980,2135-05-10 04:00:00,0 days 13:47:54,Chest Tubes CTICU CT 1,130.0,ml
+257980,2135-05-10 04:00:00,0 days 13:47:54,Urine Out Foley,35.0,ml
+257980,2135-05-10 05:00:00,0 days 14:47:54,Chest Tubes CTICU CT 1,30.0,ml
+257980,2135-05-10 05:00:00,0 days 14:47:54,Chest Tubes CTICU CT 2,0.0,ml
+257980,2135-05-10 05:00:00,0 days 14:47:54,Urine Out Foley,35.0,ml
+257980,2135-05-10 06:00:00,0 days 15:47:54,Urine Out Foley,30.0,ml
+257980,2135-05-10 07:00:00,0 days 16:47:54,Urine Out Foley,30.0,ml
+257980,2135-05-10 08:00:00,0 days 17:47:54,Chest Tubes CTICU CT 2,0.0,ml
+257980,2135-05-10 08:00:00,0 days 17:47:54,Urine Out Foley,35.0,ml
+257980,2135-05-10 08:00:00,0 days 17:47:54,Chest Tubes CTICU CT 1,160.0,ml
+257980,2135-05-10 09:00:00,0 days 18:47:54,Urine Out Foley,160.0,ml
+257980,2135-05-10 10:00:00,0 days 19:47:54,Urine Out Foley,200.0,ml
+257980,2135-05-10 11:00:00,0 days 20:47:54,Urine Out Foley,360.0,ml
+257980,2135-05-10 11:00:00,0 days 20:47:54,Chest Tubes CTICU CT 1,40.0,ml
+220597,2149-11-09 13:00:00,-1 days +23:52:58,Urine Out Foley,1100.0,ml
+220597,2149-11-09 16:00:00,0 days 02:52:58,Urine Out Foley,250.0,ml
+220597,2149-11-09 18:00:00,0 days 04:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-09 20:00:00,0 days 06:52:58,Urine Out Foley,60.0,ml
+220597,2149-11-09 20:30:00,0 days 07:22:58,Gastric Emesis,,ml
+220597,2149-11-09 21:00:00,0 days 07:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-09 21:00:00,0 days 07:52:58,Gastric Emesis,,ml
+220597,2149-11-09 22:00:00,0 days 08:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-09 23:00:00,0 days 09:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-10 00:00:00,0 days 10:52:58,Urine Out Foley,20.0,ml
+220597,2149-11-10 01:00:00,0 days 11:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-10 02:00:00,0 days 12:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-10 03:00:00,0 days 13:52:58,Urine Out Foley,20.0,ml
+220597,2149-11-10 04:00:00,0 days 14:52:58,Urine Out Foley,26.0,ml
+220597,2149-11-10 05:00:00,0 days 15:52:58,Urine Out Foley,24.0,ml
+220597,2149-11-10 06:00:00,0 days 16:52:58,Urine Out Foley,24.0,ml
+220597,2149-11-10 07:00:00,0 days 17:52:58,Urine Out Foley,26.0,ml
+220597,2149-11-10 08:00:00,0 days 18:52:58,Urine Out Foley,45.0,ml
+220597,2149-11-10 09:00:00,0 days 19:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-10 10:00:00,0 days 20:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-10 12:00:00,0 days 22:52:58,Urine Out Foley,42.0,ml
+220597,2149-11-10 15:00:00,1 days 01:52:58,Urine Out Foley,150.0,ml
+220597,2149-11-10 17:00:00,1 days 03:52:58,Urine Out Foley,22.0,ml
+220597,2149-11-10 18:00:00,1 days 04:52:58,Urine Out Foley,35.0,ml
+220597,2149-11-10 19:00:00,1 days 05:52:58,Urine Out Foley,40.0,ml
+220597,2149-11-10 20:00:00,1 days 06:52:58,Urine Out Foley,400.0,ml
+220597,2149-11-10 22:00:00,1 days 08:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-10 23:00:00,1 days 09:52:58,Urine Out Foley,200.0,ml
+220597,2149-11-11 00:00:00,1 days 10:52:58,Urine Out Foley,260.0,ml
+220597,2149-11-11 02:00:00,1 days 12:52:58,Urine Out Foley,270.0,ml
+220597,2149-11-11 03:00:00,1 days 13:52:58,Urine Out Foley,400.0,ml
+220597,2149-11-11 04:00:00,1 days 14:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-11 06:00:00,1 days 16:52:58,Urine Out Foley,60.0,ml
+220597,2149-11-11 08:00:00,1 days 18:52:58,Urine Out Foley,180.0,ml
+220597,2149-11-11 09:00:00,1 days 19:52:58,Urine Out Foley,56.0,ml
+220597,2149-11-11 10:30:00,1 days 21:22:58,Urine Out Foley,90.0,ml
+220597,2149-11-11 11:00:00,1 days 21:52:58,Urine Out Foley,90.0,ml
+220597,2149-11-11 12:00:00,1 days 22:52:58,Urine Out Foley,25.0,ml
+220597,2149-11-11 13:00:00,1 days 23:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-11 14:00:00,2 days 00:52:58,Urine Out Foley,20.0,ml
+220597,2149-11-11 16:00:00,2 days 02:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-11 17:00:00,2 days 03:52:58,Urine Out Foley,400.0,ml
+220597,2149-11-11 18:00:00,2 days 04:52:58,Urine Out Foley,300.0,ml
+220597,2149-11-11 20:15:00,2 days 07:07:58,Urine Out Foley,80.0,ml
+220597,2149-11-11 21:00:00,2 days 07:52:58,Urine Out Foley,80.0,ml
+220597,2149-11-11 22:00:00,2 days 08:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-11 23:00:00,2 days 09:52:58,Urine Out Foley,180.0,ml
+220597,2149-11-12 00:00:00,2 days 10:52:58,Urine Out Foley,90.0,ml
+220597,2149-11-12 01:00:00,2 days 11:52:58,Urine Out Foley,80.0,ml
+220597,2149-11-12 02:00:00,2 days 12:52:58,Urine Out Foley,80.0,ml
+220597,2149-11-12 03:00:00,2 days 13:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-12 04:00:00,2 days 14:52:58,Urine Out Foley,60.0,ml
+220597,2149-11-12 05:00:00,2 days 15:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-12 06:00:00,2 days 16:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-12 07:00:00,2 days 17:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-12 08:00:00,2 days 18:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-12 09:00:00,2 days 19:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-12 10:00:00,2 days 20:52:58,Urine Out Foley,90.0,ml
+220597,2149-11-12 11:00:00,2 days 21:52:58,Urine Out Foley,20.0,ml
+220597,2149-11-12 12:00:00,2 days 22:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-12 13:00:00,2 days 23:52:58,Urine Out Foley,10.0,ml
+220597,2149-11-12 14:00:00,3 days 00:52:58,Urine Out Foley,70.0,ml
+220597,2149-11-12 15:00:00,3 days 01:52:58,Urine Out Foley,30.0,ml
+220597,2149-11-12 16:00:00,3 days 02:52:58,Urine Out Foley,20.0,ml
+220597,2149-11-12 17:00:00,3 days 03:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-12 18:00:00,3 days 04:52:58,Urine Out Foley,120.0,ml
+220597,2149-11-12 19:00:00,3 days 05:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-12 20:00:00,3 days 06:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-12 21:00:00,3 days 07:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-12 22:00:00,3 days 08:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-12 23:00:00,3 days 09:52:58,Urine Out Foley,120.0,ml
+220597,2149-11-13 00:00:00,3 days 10:52:58,Urine Out Foley,220.0,ml
+220597,2149-11-13 01:00:00,3 days 11:52:58,Urine Out Foley,120.0,ml
+220597,2149-11-13 02:00:00,3 days 12:52:58,Urine Out Foley,130.0,ml
+220597,2149-11-13 03:00:00,3 days 13:52:58,Urine Out Foley,40.0,ml
+220597,2149-11-13 04:00:00,3 days 14:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-13 05:00:00,3 days 15:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-13 06:00:00,3 days 16:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-13 08:00:00,3 days 18:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-13 09:00:00,3 days 19:52:58,Urine Out Foley,80.0,ml
+220597,2149-11-13 10:00:00,3 days 20:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-13 11:00:00,3 days 21:52:58,Urine Out Foley,80.0,ml
+220597,2149-11-13 12:00:00,3 days 22:52:58,Urine Out Foley,100.0,ml
+220597,2149-11-13 13:00:00,3 days 23:52:58,Urine Out Foley,120.0,ml
+220597,2149-11-13 14:00:00,4 days 00:52:58,Urine Out Foley,60.0,ml
+220597,2149-11-13 15:00:00,4 days 01:52:58,Urine Out Foley,50.0,ml
+220597,2149-11-13 17:00:00,4 days 03:52:58,Urine Out Foley,260.0,ml
+220597,2149-11-13 18:00:00,4 days 04:52:58,Urine Out Foley,720.0,ml
+220597,2149-11-13 19:00:00,4 days 05:52:58,Urine Out Foley,650.0,ml
+220597,2149-11-13 20:00:00,4 days 06:52:58,Urine Out Foley,340.0,ml
+220597,2149-11-13 21:00:00,4 days 07:52:58,Urine Out Foley,280.0,ml
+220597,2149-11-13 22:00:00,4 days 08:52:58,Urine Out Foley,200.0,ml
+220597,2149-11-13 23:00:00,4 days 09:52:58,Urine Out Foley,180.0,ml
+220597,2149-11-14 00:00:00,4 days 10:52:58,Urine Out Foley,390.0,ml
+220597,2149-11-14 01:00:00,4 days 11:52:58,Urine Out Foley,260.0,ml
+220597,2149-11-14 02:00:00,4 days 12:52:58,Urine Out Foley,320.0,ml
+220597,2149-11-14 03:00:00,4 days 13:52:58,Urine Out Foley,320.0,ml
+220597,2149-11-14 04:00:00,4 days 14:52:58,Urine Out Foley,220.0,ml
+220597,2149-11-14 05:00:00,4 days 15:52:58,Urine Out Foley,160.0,ml
+220597,2149-11-14 06:00:00,4 days 16:52:58,Urine Out Foley,300.0,ml
+220597,2149-11-14 07:00:00,4 days 17:52:58,Urine Out Foley,280.0,ml
+220597,2149-11-14 08:00:00,4 days 18:52:58,Urine Out Foley,90.0,ml
+220597,2149-11-14 09:00:00,4 days 19:52:58,Urine Out Foley,140.0,ml
+220597,2149-11-14 11:00:00,4 days 21:52:58,Urine Out Foley,180.0,ml
+220597,2149-11-14 12:00:00,4 days 22:52:58,Urine Out Foley,300.0,ml
+220597,2149-11-14 13:00:00,4 days 23:52:58,Urine Out Foley,320.0,ml
+220597,2149-11-14 14:00:00,5 days 00:52:58,Urine Out Foley,100.0,ml
+203487,2160-11-02 05:00:00,0 days 01:43:37,Urine Out Void,400.0,ml
+203487,2160-11-02 09:00:00,0 days 05:43:37,Urine Out Void,100.0,ml
+203487,2160-11-02 12:00:00,0 days 08:43:37,Urine Out Void,140.0,ml
+203487,2160-11-02 13:00:00,0 days 09:43:37,Urine Out Void,590.0,ml
+203487,2160-11-02 14:00:00,0 days 10:43:37,Urine Out Void,80.0,ml
+203487,2160-11-02 15:00:00,0 days 11:43:37,Urine Out Void,100.0,ml
+203487,2160-11-02 16:00:00,0 days 12:43:37,Urine Out Void,170.0,ml
+203487,2160-11-02 17:00:00,0 days 13:43:37,Urine Out Void,80.0,ml
+203487,2160-11-02 18:30:00,0 days 15:13:37,Urine Out Void,220.0,ml
+203487,2160-11-02 20:00:00,0 days 16:43:37,Urine Out Foley,250.0,ml
+203487,2160-11-02 20:00:00,0 days 16:43:37,Urine Out Void,0.0,
+203487,2160-11-02 21:00:00,0 days 17:43:37,Urine Out Foley,140.0,ml
+203487,2160-11-02 22:00:00,0 days 18:43:37,Urine Out Foley,150.0,ml
+203487,2160-11-02 23:00:00,0 days 19:43:37,Urine Out Foley,150.0,ml
+203487,2160-11-03 00:00:00,0 days 20:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 01:00:00,0 days 21:43:37,Urine Out Foley,80.0,ml
+203487,2160-11-03 02:00:00,0 days 22:43:37,Urine Out Foley,175.0,ml
+203487,2160-11-03 03:00:00,0 days 23:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 04:00:00,1 days 00:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 05:00:00,1 days 01:43:37,Urine Out Foley,80.0,ml
+203487,2160-11-03 06:00:00,1 days 02:43:37,Urine Out Foley,200.0,ml
+203487,2160-11-03 07:00:00,1 days 03:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 08:00:00,1 days 04:43:37,Urine Out Foley,110.0,ml
+203487,2160-11-03 09:00:00,1 days 05:43:37,Urine Out Foley,110.0,ml
+203487,2160-11-03 10:00:00,1 days 06:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 11:00:00,1 days 07:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 12:00:00,1 days 08:43:37,Urine Out Foley,150.0,ml
+203487,2160-11-03 13:00:00,1 days 09:43:37,Urine Out Foley,120.0,ml
+203487,2160-11-03 14:00:00,1 days 10:43:37,Urine Out Foley,120.0,ml
+203487,2160-11-03 15:00:00,1 days 11:43:37,Urine Out Foley,80.0,ml
+203487,2160-11-03 16:00:00,1 days 12:43:37,Urine Out Foley,115.0,ml
+203487,2160-11-03 17:00:00,1 days 13:43:37,Urine Out Foley,180.0,ml
+203487,2160-11-03 17:00:00,1 days 13:43:37,Stool Out Stool,,ml
+203487,2160-11-03 18:00:00,1 days 14:43:37,Urine Out Foley,80.0,ml
+203487,2160-11-03 19:00:00,1 days 15:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 20:00:00,1 days 16:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-03 23:00:00,1 days 19:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 00:00:00,1 days 20:43:37,Urine Out Foley,160.0,ml
+203487,2160-11-04 02:00:00,1 days 22:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 04:00:00,2 days 00:43:37,Urine Out Foley,140.0,ml
+203487,2160-11-04 05:00:00,2 days 01:43:37,Urine Out Foley,160.0,ml
+203487,2160-11-04 06:00:00,2 days 02:43:37,Urine Out Foley,180.0,ml
+203487,2160-11-04 07:00:00,2 days 03:43:37,Urine Out Foley,80.0,ml
+203487,2160-11-04 08:00:00,2 days 04:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 09:45:00,2 days 06:28:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 11:30:00,2 days 08:13:37,Urine Out Foley,80.0,ml
+203487,2160-11-04 12:00:00,2 days 08:43:37,Urine Out Foley,70.0,ml
+203487,2160-11-04 13:00:00,2 days 09:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 15:00:00,2 days 11:43:37,Urine Out Foley,120.0,ml
+203487,2160-11-04 16:00:00,2 days 12:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 18:00:00,2 days 14:43:37,Urine Out Foley,100.0,ml
+203487,2160-11-04 18:30:00,2 days 15:13:37,Urine Out Foley,1000.0,ml
+203487,2160-11-04 21:00:00,2 days 17:43:37,Stool Out Stool,0.0,
+203487,2160-11-04 22:00:00,2 days 18:43:37,Urine Out Foley,400.0,ml
+203487,2160-11-05 04:00:00,3 days 00:43:37,Urine Out Foley,525.0,ml
+203487,2160-11-05 06:00:00,3 days 02:43:37,Urine Out Foley,255.0,ml
+203487,2160-11-05 08:00:00,3 days 04:43:37,Urine Out Foley,200.0,ml
+203487,2160-11-05 09:00:00,3 days 05:43:37,Urine Out Foley,0.0,
+203487,2160-11-05 12:00:00,3 days 08:43:37,Urine Out Void,200.0,ml
+263738,2167-01-08 19:00:00,0 days 00:15:35,Urine Out Foley,150.0,ml
+263738,2167-01-08 20:00:00,0 days 01:15:35,Urine Out Foley,60.0,ml
+263738,2167-01-08 21:00:00,0 days 02:15:35,Urine Out Foley,120.0,ml
+263738,2167-01-08 22:00:00,0 days 03:15:35,Urine Out Foley,100.0,ml
+263738,2167-01-08 23:00:00,0 days 04:15:35,Urine Out Foley,100.0,ml
+263738,2167-01-09 00:00:00,0 days 05:15:35,Urine Out Foley,100.0,ml
+263738,2167-01-09 02:00:00,0 days 07:15:35,Urine Out Foley,100.0,ml
+263738,2167-01-09 03:00:00,0 days 08:15:35,Urine Out Foley,35.0,ml
+263738,2167-01-09 04:00:00,0 days 09:15:35,Urine Out Foley,30.0,ml
+263738,2167-01-09 05:00:00,0 days 10:15:35,Urine Out Foley,50.0,ml
+263738,2167-01-09 06:00:00,0 days 11:15:35,Urine Out Foley,100.0,ml
+263738,2167-01-09 07:00:00,0 days 12:15:35,Urine Out Foley,50.0,ml
+263738,2167-01-09 08:00:00,0 days 13:15:35,Urine Out Foley,260.0,ml
+263738,2167-01-09 10:00:00,0 days 15:15:35,Urine Out Foley,120.0,ml
+263738,2167-01-09 16:45:00,0 days 22:00:35,Chest Tubes CTICU CT 1,65.0,ml
+263738,2167-01-09 17:00:00,0 days 22:15:35,Chest Tubes CTICU CT 1,35.0,ml
+263738,2167-01-09 17:15:00,0 days 22:30:35,Chest Tubes CTICU CT 1,16.0,ml
+263738,2167-01-09 18:00:00,0 days 23:15:35,Chest Tubes CTICU CT 1,24.0,ml
+263738,2167-01-09 18:00:00,0 days 23:15:35,OR Out PACU Urine,670.0,ml
+263738,2167-01-09 18:30:00,0 days 23:45:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-09 19:00:00,1 days 00:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-09 20:00:00,1 days 01:15:35,Chest Tubes CTICU CT 1,10.0,ml
+263738,2167-01-09 21:00:00,1 days 02:15:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-09 22:00:00,1 days 03:15:35,Chest Tubes CTICU CT 1,0.0,ml
+263738,2167-01-09 23:00:00,1 days 04:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-10 01:00:00,1 days 06:15:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-10 02:00:00,1 days 07:15:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-10 03:00:00,1 days 08:15:35,Chest Tubes CTICU CT 1,30.0,ml
+263738,2167-01-10 04:00:00,1 days 09:15:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-10 06:00:00,1 days 11:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-10 08:00:00,1 days 13:15:35,Chest Tubes CTICU CT 1,35.0,ml
+263738,2167-01-10 10:00:00,1 days 15:15:35,Chest Tubes CTICU CT 1,65.0,ml
+263738,2167-01-10 12:00:00,1 days 17:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-10 14:00:00,1 days 19:15:35,Chest Tubes CTICU CT 1,70.0,ml
+263738,2167-01-10 15:00:00,1 days 20:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-10 16:00:00,1 days 21:15:35,Chest Tubes CTICU CT 1,30.0,ml
+263738,2167-01-10 18:00:00,1 days 23:15:35,Chest Tubes CTICU CT 1,30.0,ml
+263738,2167-01-10 20:00:00,2 days 01:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-10 22:00:00,2 days 03:15:35,Chest Tubes CTICU CT 1,40.0,ml
+263738,2167-01-11 00:00:00,2 days 05:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-11 02:00:00,2 days 07:15:35,Chest Tubes CTICU CT 1,60.0,ml
+263738,2167-01-11 04:00:00,2 days 09:15:35,Chest Tubes CTICU CT 1,20.0,ml
+263738,2167-01-11 21:00:00,3 days 02:15:35,Chest Tubes CTICU CT 1,0.0,
+228232,2175-05-30 22:00:00,0 days 00:29:06,Urine Out Foley,140.0,ml
+228232,2175-05-30 23:00:00,0 days 01:29:06,Urine Out Foley,160.0,ml
+228232,2175-05-31 00:00:00,0 days 02:29:06,Urine Out Foley,120.0,ml
+228232,2175-05-31 01:00:00,0 days 03:29:06,Urine Out Foley,140.0,ml
+228232,2175-05-31 02:00:00,0 days 04:29:06,Urine Out Foley,100.0,ml
+228232,2175-05-31 03:00:00,0 days 05:29:06,Urine Out Foley,100.0,ml
+228232,2175-05-31 04:00:00,0 days 06:29:06,Urine Out Foley,70.0,ml
+228232,2175-05-31 05:00:00,0 days 07:29:06,Urine Out Foley,70.0,ml
+228232,2175-05-31 06:00:00,0 days 08:29:06,Drain Out #2 Jackson Pratt,20.0,ml
+228232,2175-05-31 06:00:00,0 days 08:29:06,Urine Out Foley,70.0,ml
+228232,2175-05-31 06:00:00,0 days 08:29:06,Drain Out #1 Jackson Pratt,45.0,ml
+228232,2175-05-31 07:00:00,0 days 09:29:06,Urine Out Foley,50.0,ml
+228232,2175-05-31 08:00:00,0 days 10:29:06,Drain Out #1 Jackson Pratt,,ml
+228232,2175-05-31 08:00:00,0 days 10:29:06,Urine Out Foley,60.0,ml
+228232,2175-05-31 08:00:00,0 days 10:29:06,Drain Out #2 Jackson Pratt,,ml
+228232,2175-05-31 09:00:00,0 days 11:29:06,Urine Out Foley,35.0,ml
+228232,2175-05-31 10:00:00,0 days 12:29:06,Drain Out #1 Jackson Pratt,40.0,ml
+228232,2175-05-31 10:00:00,0 days 12:29:06,Urine Out Foley,30.0,ml
+228232,2175-05-31 11:00:00,0 days 13:29:06,Urine Out Foley,25.0,ml
+228232,2175-05-31 12:00:00,0 days 14:29:06,Urine Out Foley,65.0,ml
+228232,2175-05-31 13:00:00,0 days 15:29:06,Urine Out Foley,65.0,ml
+228232,2175-05-31 14:00:00,0 days 16:29:06,Drain Out #2 Jackson Pratt,20.0,ml
+228232,2175-05-31 14:00:00,0 days 16:29:06,Urine Out Foley,70.0,ml
+228232,2175-05-31 14:00:00,0 days 16:29:06,Drain Out #1 Jackson Pratt,30.0,ml
+228232,2175-05-31 15:00:00,0 days 17:29:06,Urine Out Foley,80.0,ml
+228232,2175-05-31 16:00:00,0 days 18:29:06,Urine Out Foley,80.0,ml
+228232,2175-05-31 17:00:00,0 days 19:29:06,Drain Out #1 Jackson Pratt,,ml
+228232,2175-05-31 17:00:00,0 days 19:29:06,Drain Out #2 Jackson Pratt,,ml
+228232,2175-05-31 17:00:00,0 days 19:29:06,Urine Out Foley,90.0,ml
+228232,2175-05-31 18:00:00,0 days 20:29:06,Urine Out Foley,85.0,ml
+228232,2175-05-31 19:00:00,0 days 21:29:06,Urine Out Foley,55.0,ml
+228232,2175-05-31 20:00:00,0 days 22:29:06,Urine Out Foley,100.0,ml
+228232,2175-05-31 21:00:00,0 days 23:29:06,Urine Out Foley,80.0,ml
+228232,2175-05-31 22:00:00,1 days 00:29:06,Urine Out Foley,80.0,ml
+228232,2175-05-31 23:00:00,1 days 01:29:06,Drain Out #1 Jackson Pratt,30.0,ml
+228232,2175-05-31 23:00:00,1 days 01:29:06,Drain Out #2 Jackson Pratt,15.0,ml
+228232,2175-05-31 23:00:00,1 days 01:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-01 00:00:00,1 days 02:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 01:00:00,1 days 03:29:06,Urine Out Foley,75.0,ml
+228232,2175-06-01 02:00:00,1 days 04:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-01 03:00:00,1 days 05:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-01 04:00:00,1 days 06:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-01 05:00:00,1 days 07:29:06,Drain Out #1 Jackson Pratt,30.0,ml
+228232,2175-06-01 05:00:00,1 days 07:29:06,Urine Out Foley,50.0,ml
+228232,2175-06-01 05:00:00,1 days 07:29:06,Drain Out #2 Jackson Pratt,20.0,ml
+228232,2175-06-01 06:00:00,1 days 08:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-01 07:00:00,1 days 09:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 08:00:00,1 days 10:29:06,Drain Out #2 Jackson Pratt,,ml
+228232,2175-06-01 08:00:00,1 days 10:29:06,Drain Out #1 Jackson Pratt,,ml
+228232,2175-06-01 08:00:00,1 days 10:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-01 09:00:00,1 days 11:29:06,Urine Out Foley,25.0,ml
+228232,2175-06-01 10:00:00,1 days 12:29:06,Drain Out #2 Jackson Pratt,15.0,ml
+228232,2175-06-01 10:00:00,1 days 12:29:06,Drain Out #1 Jackson Pratt,25.0,ml
+228232,2175-06-01 10:00:00,1 days 12:29:06,Urine Out Foley,30.0,ml
+228232,2175-06-01 11:00:00,1 days 13:29:06,Urine Out Foley,20.0,ml
+228232,2175-06-01 12:00:00,1 days 14:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-01 13:00:00,1 days 15:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-01 14:00:00,1 days 16:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-01 15:00:00,1 days 17:29:06,Urine Out Foley,25.0,ml
+228232,2175-06-01 16:00:00,1 days 18:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-01 16:00:00,1 days 18:29:06,Drain Out #2 Jackson Pratt,25.0,ml
+228232,2175-06-01 16:00:00,1 days 18:29:06,Drain Out #1 Jackson Pratt,40.0,ml
+228232,2175-06-01 17:00:00,1 days 19:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 19:00:00,1 days 21:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 20:00:00,1 days 22:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 21:00:00,1 days 23:29:06,Urine Out Foley,120.0,ml
+228232,2175-06-01 22:00:00,2 days 00:29:06,Drain Out #1 Jackson Pratt,30.0,ml
+228232,2175-06-01 22:00:00,2 days 00:29:06,Drain Out #2 Jackson Pratt,20.0,ml
+228232,2175-06-01 22:00:00,2 days 00:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-01 23:00:00,2 days 01:29:06,Urine Out Foley,160.0,ml
+228232,2175-06-02 00:00:00,2 days 02:29:06,Urine Out Foley,140.0,ml
+228232,2175-06-02 01:00:00,2 days 03:29:06,Urine Out Foley,120.0,ml
+228232,2175-06-02 02:00:00,2 days 04:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-02 03:00:00,2 days 05:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 04:00:00,2 days 06:29:06,Drain Out #1 Jackson Pratt,40.0,ml
+228232,2175-06-02 04:00:00,2 days 06:29:06,Drain Out #2 Jackson Pratt,5.0,ml
+228232,2175-06-02 04:00:00,2 days 06:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 05:00:00,2 days 07:29:06,Urine Out Foley,70.0,ml
+228232,2175-06-02 06:00:00,2 days 08:29:06,Urine Out Foley,70.0,ml
+228232,2175-06-02 07:00:00,2 days 09:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 08:00:00,2 days 10:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-02 09:00:00,2 days 11:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-02 10:00:00,2 days 12:29:06,Drain Out #1 Jackson Pratt,50.0,ml
+228232,2175-06-02 10:00:00,2 days 12:29:06,Drain Out #2 Jackson Pratt,40.0,ml
+228232,2175-06-02 10:00:00,2 days 12:29:06,Urine Out Foley,120.0,ml
+228232,2175-06-02 11:00:00,2 days 13:29:06,Urine Out Foley,50.0,ml
+228232,2175-06-02 12:00:00,2 days 14:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 13:00:00,2 days 15:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-02 14:00:00,2 days 16:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-02 15:00:00,2 days 17:29:06,Drain Out #2 Jackson Pratt,60.0,ml
+228232,2175-06-02 15:00:00,2 days 17:29:06,Urine Out Foley,50.0,ml
+228232,2175-06-02 15:00:00,2 days 17:29:06,Drain Out #1 Jackson Pratt,40.0,ml
+228232,2175-06-02 16:00:00,2 days 18:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-02 17:00:00,2 days 19:29:06,Drain Out #1 Jackson Pratt,85.0,ml
+228232,2175-06-02 17:00:00,2 days 19:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 17:00:00,2 days 19:29:06,Drain Out #2 Jackson Pratt,25.0,ml
+228232,2175-06-02 18:00:00,2 days 20:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-02 19:00:00,2 days 21:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-02 20:00:00,2 days 22:29:06,Urine Out Foley,50.0,ml
+228232,2175-06-02 21:00:00,2 days 23:29:06,Urine Out Foley,200.0,ml
+228232,2175-06-02 22:00:00,3 days 00:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-02 23:00:00,3 days 01:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-03 00:00:00,3 days 02:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-03 01:00:00,3 days 03:29:06,Urine Out Foley,140.0,ml
+228232,2175-06-03 02:00:00,3 days 04:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-03 03:00:00,3 days 05:29:06,Urine Out Foley,30.0,ml
+228232,2175-06-03 04:00:00,3 days 06:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-03 05:00:00,3 days 07:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-03 06:00:00,3 days 08:29:06,Drain Out #1 Jackson Pratt,70.0,ml
+228232,2175-06-03 06:00:00,3 days 08:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-03 06:00:00,3 days 08:29:06,Drain Out #2 Jackson Pratt,60.0,ml
+228232,2175-06-03 07:00:00,3 days 09:29:06,Urine Out Foley,45.0,ml
+228232,2175-06-03 08:00:00,3 days 10:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-03 09:00:00,3 days 11:29:06,Drain Out #1 Jackson Pratt,20.0,ml
+228232,2175-06-03 09:00:00,3 days 11:29:06,Urine Out Foley,60.0,ml
+228232,2175-06-03 09:00:00,3 days 11:29:06,Drain Out #2 Jackson Pratt,30.0,ml
+228232,2175-06-03 10:00:00,3 days 12:29:06,Urine Out Foley,90.0,ml
+228232,2175-06-03 11:00:00,3 days 13:29:06,Urine Out Foley,100.0,ml
+228232,2175-06-03 12:00:00,3 days 14:29:06,Drain Out #2 Jackson Pratt,20.0,ml
+228232,2175-06-03 12:00:00,3 days 14:29:06,Urine Out Foley,80.0,ml
+228232,2175-06-03 12:00:00,3 days 14:29:06,Drain Out #1 Jackson Pratt,30.0,ml
+228232,2175-06-03 13:00:00,3 days 15:29:06,Urine Out Foley,80.0,ml
+264490,2183-04-28 18:00:00,0 days 02:59:24,OR Out PACU Urine,910.0,ml
+264490,2183-04-28 18:00:00,0 days 02:59:24,Chest Tubes CTICU CT 1,65.0,ml
+264490,2183-04-28 18:00:00,0 days 02:59:24,Urine Out Foley,200.0,ml
+264490,2183-04-28 18:15:00,0 days 03:14:24,Chest Tubes CTICU CT 1,15.0,ml
+264490,2183-04-28 18:30:00,0 days 03:29:24,Chest Tubes CTICU CT 1,10.0,ml
+264490,2183-04-28 18:30:00,0 days 03:29:24,Urine Out Foley,180.0,ml
+264490,2183-04-28 18:45:00,0 days 03:44:24,Chest Tubes CTICU CT 1,15.0,ml
+264490,2183-04-28 19:00:00,0 days 03:59:24,Urine Out Foley,260.0,ml
+264490,2183-04-28 19:00:00,0 days 03:59:24,Chest Tubes CTICU CT 1,15.0,ml
+264490,2183-04-28 19:30:00,0 days 04:29:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-28 19:30:00,0 days 04:29:24,Urine Out Foley,140.0,ml
+264490,2183-04-28 21:00:00,0 days 05:59:24,Urine Out Foley,260.0,ml
+264490,2183-04-28 21:00:00,0 days 05:59:24,Chest Tubes CTICU CT 1,60.0,ml
+264490,2183-04-28 22:00:00,0 days 06:59:24,Urine Out Foley,200.0,ml
+264490,2183-04-28 22:00:00,0 days 06:59:24,Chest Tubes CTICU CT 1,150.0,ml
+264490,2183-04-28 23:00:00,0 days 07:59:24,Urine Out Foley,130.0,ml
+264490,2183-04-28 23:00:00,0 days 07:59:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-29 00:00:00,0 days 08:59:24,Urine Out Foley,80.0,ml
+264490,2183-04-29 00:00:00,0 days 08:59:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-29 01:00:00,0 days 09:59:24,Urine Out Foley,80.0,ml
+264490,2183-04-29 01:00:00,0 days 09:59:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-29 02:00:00,0 days 10:59:24,Gastric Oral Gastric,50.0,ml
+264490,2183-04-29 02:00:00,0 days 10:59:24,Chest Tubes CTICU CT 1,0.0,ml
+264490,2183-04-29 02:00:00,0 days 10:59:24,Urine Out Foley,30.0,ml
+264490,2183-04-29 03:00:00,0 days 11:59:24,Urine Out Foley,45.0,ml
+264490,2183-04-29 04:00:00,0 days 12:59:24,Urine Out Foley,35.0,ml
+264490,2183-04-29 04:00:00,0 days 12:59:24,Chest Tubes CTICU CT 1,0.0,ml
+264490,2183-04-29 05:00:00,0 days 13:59:24,Urine Out Foley,28.0,ml
+264490,2183-04-29 05:00:00,0 days 13:59:24,Chest Tubes CTICU CT 1,80.0,ml
+264490,2183-04-29 06:00:00,0 days 14:59:24,Urine Out Foley,50.0,ml
+264490,2183-04-29 08:00:00,0 days 16:59:24,Urine Out Foley,75.0,ml
+264490,2183-04-29 08:00:00,0 days 16:59:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-29 09:00:00,0 days 17:59:24,Urine Out Foley,45.0,ml
+264490,2183-04-29 10:00:00,0 days 18:59:24,Urine Out Foley,100.0,ml
+264490,2183-04-29 10:00:00,0 days 18:59:24,Chest Tubes CTICU CT 1,40.0,ml
+264490,2183-04-29 11:00:00,0 days 19:59:24,Urine Out Foley,450.0,ml
+264490,2183-04-29 12:00:00,0 days 20:59:24,Urine Out Foley,45.0,ml
+264490,2183-04-29 12:00:00,0 days 20:59:24,Chest Tubes CTICU CT 1,100.0,ml
+264490,2183-04-29 13:00:00,0 days 21:59:24,Urine Out Foley,45.0,ml
+264490,2183-04-29 13:00:00,0 days 21:59:24,Chest Tubes CTICU CT 1,30.0,ml
+264490,2183-04-29 14:00:00,0 days 22:59:24,Chest Tubes CTICU CT 1,20.0,ml
+264490,2183-04-29 14:00:00,0 days 22:59:24,Urine Out Foley,40.0,ml
+264490,2183-04-29 15:45:00,1 days 00:44:24,Urine Out Foley,45.0,ml
+264490,2183-04-29 15:45:00,1 days 00:44:24,Chest Tubes CTICU CT 1,20.0,ml
+294638,2191-03-16 05:00:00,0 days 04:30:29,Urine Out Void,550.0,ml
+294638,2191-03-16 10:00:00,0 days 09:30:29,Urine Out Void,,ml
+294638,2191-03-16 16:00:00,0 days 15:30:29,Urine Out Void,700.0,ml
+294638,2191-03-16 16:00:00,0 days 15:30:29,Stool Out Stool,,ml
+294638,2191-03-16 21:00:00,0 days 20:30:29,Stool Out Stool,,ml
+294638,2191-03-16 21:00:00,0 days 20:30:29,Urine Out Void,400.0,ml
+294638,2191-03-17 00:00:00,0 days 23:30:29,Urine Out Void,500.0,ml
+294638,2191-03-17 03:00:00,1 days 02:30:29,Urine Out Void,300.0,ml
+294638,2191-03-17 04:00:00,1 days 03:30:29,Stool Out Stool,250.0,ml
+294638,2191-03-17 06:00:00,1 days 05:30:29,Urine Out Void,600.0,ml
+294638,2191-03-17 06:00:00,1 days 05:30:29,Stool Out Stool,50.0,ml
+294638,2191-03-17 08:00:00,1 days 07:30:29,Urine Out Void,,ml
