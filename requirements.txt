@@ -3,5 +3,5 @@ Pillow
 pandas
 numpy
 matplotlib
-sklearn
+scikit-learn
 streamlit_lottie
